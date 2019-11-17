@@ -7,7 +7,7 @@ description: Statistical Bioinformatics
 
 
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
+<h4><a name="contact"></a>About me</h4>
 
     <div class="row-fluid">
      <div class="span2">
@@ -19,19 +19,18 @@ description: Statistical Bioinformatics
     
     
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
+            Hao Harry Feng<br/>
+            <a href="pqhs.case.edu">Department of Population &amp; Quantitative Health Sciences</a><br/>
+            <a href="https://case.edu/medicine/">School of Medicine</a><br/>
+            <a href="case.edu">Case Western Reserve University</a><br/>
+            10900 Euclid Avenue<br/>
+            SOM / Room G82T<br/>
+            Cleveland, OH 44106<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>hxf155@case.edu</code><br/>
+            Phone: 216-368-5510
         
 
        
@@ -42,11 +41,9 @@ description: Statistical Bioinformatics
 ---
 
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
+I am is an assistant professor in the 
+[Department of Population &amp; Quantitative Health Sciences](pqhs.case.edu)
+at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center](https://case.edu/cancer/).
 
 Karl received a BS in [mathematics](http://uwm.edu/math)
 in 1991, from the
