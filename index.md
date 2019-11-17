@@ -33,7 +33,6 @@ description: Statistical Bioinformatics
 
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
-            Phone: 216-368-5510<br/>
              <a href="http://epbiwww.case.edu/haofeng-phd/">My official webpage at CWRU</a><br/>
       
         </div>
