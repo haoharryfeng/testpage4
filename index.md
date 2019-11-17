@@ -55,16 +55,10 @@ professor [Hao Wu](http://www.haowulab.org/). Before that, I received my MSPH de
 from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (2011). 
 
 
-I am a statistician focusing on problems in bioinformatics. focused primarily on developing statistical methods for epigenomics data.
-My research interests Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
-of interactive data visualizations for high-dimensional genetic data;
-see his [R/qtlcharts package](https://kbroman.org/qtlcharts) and
-his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
+I am a statistician focusing on problems in bioinformatics. Developing statistical methods for high-throughput _omics_ data is a 
+major component of my research. In the past, I utilized epigenomics data to define biomarkers, classify cancer 
+subtypes and predict disease in cell-free DNA. I also collaborate closely with physicians 
+and wet-lab researchers on various projects including cancer, virus, trauma, and neurodegenerative disease studies.
 
 [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0003-2243-9949](https://orcid.org/0000-0003-2243-9949)<br/>
