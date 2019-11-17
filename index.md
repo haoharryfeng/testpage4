@@ -11,17 +11,17 @@ description: Statistical Bioinformatics
 <h4><a name="contact"></a>About me</h4>
 
   <div class="row-fluid">
-     <div class="span5">
+     <div class="span2">
         <a href="./assets/pics/Feng.jpg">
             <img src="./assets/pics/Feng.jpg"
                   title="Harry Feng" alt="Harry Feng"/></a>
         	</div>
-        </div>
+
     
 
   
     
-        <div class="span2">
+        <div class="span5">
             Hao Harry Feng<br/>
             <a href="http://epbiwww.case.edu/">Department of Population &amp; Quantitative Health Sciences</a><br/>
             <a href="https://case.edu/medicine/">School of Medicine</a><br/>
@@ -35,7 +35,7 @@ description: Statistical Bioinformatics
             Email: <code>hxf155@case.edu</code><br/>
             Phone: 216-368-5510
         
-
+        </div>
        
         </div>
     </div>
