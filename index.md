@@ -5,68 +5,79 @@ tagline: Statistical Bioinformatics
 description: Statistical Bioinformatics
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
 
-For me, the painful aspects of making a website are
+Karl Broman is Professor in the
+[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
+at the University of Wisconsin&ndash;Madison;
+research in statistical genetics; developer of
+[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+Karl received a BS in [mathematics](http://uwm.edu/math)
+in 1991, from the
+University of Wisconsin&ndash;Milwaukee, and a
+PhD in [statistics](http://stat.berkeley.edu) in 1997, from the
+University of California, Berkeley; his PhD advisor was
+[Terry Speed](http://www.wehi.edu.au/people/terry-speed).
+He was a postdoctoral fellow with James Weber at the
+[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
+1997&ndash;1999. He
+was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
+Hopkins University, 1999&ndash;2007. In 2007, he moved to the
+[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
+a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
+[Editorial Board](https://bmcbiol.biomedcentral.com/about/editorial-board).
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+Karl is an applied statistician focusing on problems in genetics and
+genomics &ndash; particularly the analysis of meiotic recombination and the
+genetic dissection of complex traits in experimental organisms. The
+latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
+_quantitative trait locus_ &ndash; a genetic locus that influences a
+quantitative trait. Recently he has been focusing on the development
+of interactive data visualizations for high-dimensional genetic data;
+see his [R/qtlcharts package](https://kbroman.org/qtlcharts) and
+his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
+[orcid](https://orcid.org): [0000-0002-4914-6671](https://orcid.org/0000-0002-4914-6671)<br/>
+[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)<br/>
+[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=broman+kw)<br/>
+[impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/>
+[github](https://github.com/kbroman)<br/>
+[blog](https://kbroman.org/blog) <br/>
+he/him
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+    <div class="row-fluid">
+        <div class="span5">
+            Karl Broman<br/>
+            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
+            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
+            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
+            425 Henry Mall<br/>
+            Madison, Wisconsin 53706<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
+            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Phone: 608-262-4633
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/pics/karl_2014-03-30.jpg">
+            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+                  title="Karl Broman" alt="Karl Broman"/></a>
+        </div>
+    </div>
+</div>
+
+
+
