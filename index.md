@@ -34,8 +34,7 @@ description: Statistical Bioinformatics
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
             Phone: 216-368-5510<br/>
-             <a href="https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en">Google Scholar</a><br/>
-            <a href="https://github.com/haoharryfeng">GitHub</a><br/>
+             <a href="http://epbiwww.case.edu/haofeng-phd/">My official webpage at CWRU</a><br/>
       
         </div>
        
@@ -62,7 +61,9 @@ projects including cancer, virus, trauma, epidemiology and neurodegenerative dis
 
 [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0003-2243-9949](https://orcid.org/0000-0003-2243-9949)<br/>
-
+[Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
+[GitHub](https://github.com/haoharryfeng)<br/>
+      
 
 
 
