@@ -3,6 +3,5 @@ layout: page
 title: Hiring
 ---
 
-We are now hiring! Contact me for details. 
-
+1~2 postdoc fellow positions are immediately available at Feng's lab in statistical bioinformatics. 
 
