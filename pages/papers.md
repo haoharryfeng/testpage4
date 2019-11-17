@@ -3,15 +3,12 @@ layout: page
 title: papers
 ---
 
-### pre-prints
 
-Xiuyu Ma, **Keegan Korthauer**, Christina Kendziorski, Michael A. Newton. A compositional model to assess expression changes from single-cell RNA-seq data. *bioRxiv*, [doi: 10.1101/655795](https://www.biorxiv.org/content/10.1101/655795v1), 2019. <a href="https://github.com/wiscstatman/scDDboost"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/655795 " data-hide-no-mentions="true" class="altmetric-embed"></span>  
+### Statistical Methodology
 
-**Keegan Korthauer**, Rafael A Irizarry. Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation. *bioRxiv*, [doi: 10.1101/381145](https://doi.org/10.1101/381145), 2018. <a href="https://github.com/kdkorthauer/repressiveCapacity"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1101/381145" data-hide-no-mentions="true" class="altmetric-embed"></span>  
+**Feng H**, Jin P, Wu H. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
 
-### peer reviewed journal articles
-
-**Keegan Korthauer**, Sutirtha Chakraborty, Yuval Benjamini, Rafael A Irizarry. Detection and accurate False Discovery Rate control of differentially methylated regions from Whole Genome Bisulfite Sequencing. *Biostatistics*, 20(3):367-383. [doi: 10.1093/biostatistics/kxy007](https://doi.org/10.1093/biostatistics/kxy007), 2019. <a href="https://github.com/kdkorthauer/dmrseqPaper"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="http://bioconductor.org/packages/dmrseq/"><img width="2.5%%" height="2.5%" src="../assets/img/biocnote.jpg" title="Bioconductor package"></a> <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1093/biostatistics/kxy007" data-hide-no-mentions="true" class="altmetric-embed"></span>  
+Zhang WW<sup>&dagger;</sup>, **Feng H**<sup>&dagger;</sup>, Wu H, Zheng XQ. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. *Bioinformatics*. 33 (17), 2651-2657. [doi: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 2017.
 
 
 **Keegan Korthauer**<sup>&dagger;</sup>, Patrick K Kimes<sup>&dagger;</sup>, Claire Duvallet<sup>&Dagger;</sup>, Alejandro Reyes<sup>&Dagger;</sup>, Ayshwarya Subramanian<sup>&Dagger;</sup>, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks. A practical guide to methods controlling false discovery rates. *Genome Biology*, 20:118. [doi: 10.1186/s13059-019-1716-1](https://doi.org/10.1186/s13059-019-1716-1), 2019. <a href="https://github.com/pkimes/benchmark-fdr"><img src="../assets/img/github.png" title="Code to reproduce paper"></a> <a href="http://bioconductor.org/packages/benchmarkfdrData2019/"><img width="2.5%%" height="2.5%" src="../assets/img/biocnote.jpg" title="Bioconductor package"></a> <a href="https://github.com/kdkorthauer/benchmarkfdr-shiny"><img width="2.5%" height="2.5%" src="../assets/img/shiny.png" title="Shiny app to explore results"></a>  <span data-badge-popover="right" data-badge-type="2" data-doi="https://doi.org/10.1186/s13059-019-1716-1" data-hide-no-mentions="true" class="altmetric-embed"></span>  

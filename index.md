@@ -59,7 +59,7 @@ identify Differentially Methylated Regions (DMR) in Bisulfite-sequencing (BS-seq
 [InfiniumPurify](https://cran.rstudio.com/web/packages/InfiniumPurify/index.html) to identify cancer subtypes using DNA methylation microarray data, [cfDNAmethy](https://github.com/haoharryfeng/cfDNAmethy) to deconvolute cell-free DNA methylation signal in plasma using liquid biopsy. I collaborate closely with physicians and wet-lab researchers on various 
 projects including cancer, virus, trauma, epidemiology and neurodegenerative disease studies. 
 
-[curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
+[curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)]({{ BASE_PATH }}/Feng_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0003-2243-9949](https://orcid.org/0000-0003-2243-9949)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 [GitHub](https://github.com/haoharryfeng)<br/>
