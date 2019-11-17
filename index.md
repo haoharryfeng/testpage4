@@ -5,11 +5,7 @@ tagline: Statistical Bioinformatics
 description: Statistical Bioinformatics
 ---
 
-
-<div class="container">
-<h4><a name="contact"></a>About me</h4>
-
-    <div class="row-fluid">
+  <div class="row-fluid">
      <div class="span2">
         <a href="./assets/pics/Feng.jpg">
             <img src="./assets/pics/Feng.jpg"
@@ -17,6 +13,11 @@ description: Statistical Bioinformatics
         	</div>
         </div>
     
+
+<div class="container">
+<h4><a name="contact"></a>About me</h4>
+
+  
     
         <div class="span5">
             Hao Harry Feng<br/>
@@ -42,7 +43,7 @@ description: Statistical Bioinformatics
 
 
 I am is a tenure-track assistant professor in the 
-[Department of Population &amp; Quantitative Health Sciences](pqhs.case.edu)
+[Department of Population &amp; Quantitative Health Sciences](http://epbiwww.case.edu/)
 at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (CCCC)](https://case.edu/cancer/).
 
 I obtained my Ph.D. degree in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
