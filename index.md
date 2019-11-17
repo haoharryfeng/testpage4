@@ -34,9 +34,9 @@ description: Statistical Bioinformatics
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
             Phone: 216-368-5510
-       		[google scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
-			[github](https://github.com/haoharryfeng)<br/>
-
+             <a href="https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en">Google Scholar</a><br/>
+            <a href="https://github.com/haoharryfeng">GitHub</a><br/>
+      
         </div>
        
         </div>
@@ -55,7 +55,7 @@ professor [Hao Wu](http://www.haowulab.org/). Before that, I received my MSPH de
 from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (2011). 
 
 
-I am a statistician focusing on problems in bioinformatics. 
+I am a statistician focusing on problems in bioinformatics. focused primarily on developing statistical methods for epigenomics data.
 My research interests Karl is an applied statistician focusing on problems in genetics and
 genomics &ndash; particularly the analysis of meiotic recombination and the
 genetic dissection of complex traits in experimental organisms. The
