@@ -33,7 +33,7 @@ description: Statistical Bioinformatics
 
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
-            Phone: 216-368-5510
+            Phone: 216-368-5510<br/>
              <a href="https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en">Google Scholar</a><br/>
             <a href="https://github.com/haoharryfeng">GitHub</a><br/>
       
