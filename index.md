@@ -5,6 +5,8 @@ tagline: Statistical Bioinformatics
 description: Statistical Bioinformatics
 ---
 
+
+<div class="container">
   <div class="row-fluid">
      <div class="span2">
         <a href="./assets/pics/Feng.jpg">
@@ -14,7 +16,6 @@ description: Statistical Bioinformatics
         </div>
     
 
-<div class="container">
 <h4><a name="contact"></a>About me</h4>
 
   
