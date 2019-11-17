@@ -7,9 +7,17 @@ description: Statistical Bioinformatics
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/Feng.jpg">
+            <img src="./assets/pics/Feng.jpg"
+                  title="Harry Feng" alt="Harry Feng"/></a>
+        	</div>
+        </div>
+    
+    
         <div class="span5">
             Karl Broman<br/>
             <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
@@ -24,17 +32,14 @@ description: Statistical Bioinformatics
             </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             Phone: 608-262-4633
-            </div>
-        </div>
+        
 
-        <div class="span2">
-        <a href="../assets/pics/Feng.jpg">
-            <img src="../assets/pics/Feng.jpg"
-                  title="Harry Feng" alt="Harry Feng"/></a>
+       
         </div>
     </div>
 </div>
 
+---
 
 
 Karl Broman is Professor in the
