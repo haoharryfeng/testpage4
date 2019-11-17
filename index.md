@@ -34,7 +34,9 @@ description: Statistical Bioinformatics
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
             Phone: 216-368-5510
-        
+       		[google scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
+			[github](https://github.com/haoharryfeng)<br/>
+
         </div>
        
         </div>
@@ -44,15 +46,17 @@ description: Statistical Bioinformatics
 ---
 
 
-I am is a tenure-track assistant professor in the 
+I am is a tenure-track assistant professor in biostatistics at the 
 [Department of Population &amp; Quantitative Health Sciences](http://epbiwww.case.edu/)
 at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (CCCC)](https://case.edu/cancer/).
 
 I obtained my Ph.D. degree in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
-professor [Hao Wu](http://www.haowulab.org/). Before that, I 
+professor [Hao Wu](http://www.haowulab.org/). Before that, I received my MSPH degree in biostatistics from Emory University (2013) and my BS degree 
+from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (2011). 
 
 
-Karl is an applied statistician focusing on problems in genetics and
+I am a statistician focusing on problems in bioinformatics. 
+My research interests Karl is an applied statistician focusing on problems in genetics and
 genomics &ndash; particularly the analysis of meiotic recombination and the
 genetic dissection of complex traits in experimental organisms. The
 latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
@@ -64,8 +68,6 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 
 [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/>
 [orcid](https://orcid.org): [0000-0003-2243-9949](https://orcid.org/0000-0003-2243-9949)<br/>
-[google scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
-[github](https://github.com/haoharryfeng)<br/>
 
 
 
