@@ -45,8 +45,7 @@ description: Statistical Bioinformatics
 
 ### Now Hiring! 
 
-One to two postdoc fellow positions are immediately available at Feng's lab in statistical bioinformatics. 
-Interested applicants should submit a cover letter and a CV to Dr. Feng's email (hxf155@case.edu). 
+One to two postdoc research scholar position(s) are immediately available at Feng's lab in statistical bioinformatics. Check the [Now Hiring!](https://hfenglab.org/hire.html) tab for details. 
 
 ### Bio
 
