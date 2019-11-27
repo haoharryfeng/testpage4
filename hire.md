@@ -12,7 +12,7 @@ The successful candidate will benefit particularly from our partnerships with Ca
 The anticipated duration of the position is 2 years (extendable) with a negotiable start date. 
 
 #### Qualifications:
-1.	Candidates should have a recent doctoral degree in biostatistics, statistics, bioinformatics, biomedical informatics or related field. ABD (All-But-Degree) doctoral students are encouraged to apply. 
+1.	Candidates should have a recent doctoral degree in biostatistics, statistics, bioinformatics, biomedical informatics or related field. ABD doctoral students are encouraged to apply. 
 2.	Proficiency in statistical computing in R.
 3.	Experience in using High-Performance Computing. 
 4.	Knowledge in genetics/genomics is preferred, but not required. 
