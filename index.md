@@ -52,7 +52,7 @@ One to two postdoc research scholar position(s) are immediately available at our
 
 I am is a tenure-track assistant professor in biostatistics at the 
 [Department of Population &amp; Quantitative Health Sciences](http://epbiwww.case.edu/)
-at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (CCCC)](https://case.edu/cancer/).
+at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (Case CCC)](https://case.edu/cancer/).
 
 I obtained my Ph.D. degree (2019) in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
 professor [Hao Wu](http://www.haowulab.org/). Before that, I received my MSPH degree (2013) in biostatistics from Emory University and my BS degree (2011)
