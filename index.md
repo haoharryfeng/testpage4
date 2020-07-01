@@ -48,7 +48,7 @@ description: Statistical Bioinformatics
 
 
 I am is a tenure-track assistant professor in biostatistics at the 
-[Department of Population &amp; Quantitative Health Sciences](http://epbiwww.case.edu/)
+[Department of Population &amp; Quantitative Health Sciences](https://case.edu/medicine/pqhs/)
 at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (Case CCC)](https://case.edu/cancer/).
 
 I obtained my Ph.D. degree (2019) in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
