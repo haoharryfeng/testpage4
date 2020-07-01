@@ -23,7 +23,7 @@ description: Statistical Bioinformatics
     
         <div class="span5">
             Hao Harry Feng<br/>
-            <a href="http://epbiwww.case.edu/">Department of Population &amp; Quantitative Health Sciences</a><br/>
+            <a href="https://case.edu/medicine/pqhs/">Department of Population &amp; Quantitative Health Sciences</a><br/>
             <a href="https://case.edu/medicine/">School of Medicine</a><br/>
             <a href="https://case.edu/">Case Western Reserve University</a><br/>
             10900 Euclid Avenue<br/>
@@ -33,7 +33,7 @@ description: Statistical Bioinformatics
 
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
-             <a href="http://epbiwww.case.edu/haofeng-phd/">My official webpage at CWRU</a><br/>
+             <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/hao-harry-feng/">My official webpage at CWRU</a><br/>
       
         </div>
        
