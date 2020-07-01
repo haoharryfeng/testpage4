@@ -3,7 +3,7 @@ layout: page
 title: Hiring
 ---
 
-##Postdoc opening is temporarily on hold due to university-wide hiring freeze. 
+## Postdoc opening is temporarily on hold due to university-wide hiring freeze. 
 
 
 #### Description
