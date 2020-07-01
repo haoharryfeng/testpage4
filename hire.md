@@ -3,7 +3,9 @@ layout: page
 title: Hiring
 ---
 
-## Postdoc opening is temporarily on hold due to university-wide hiring freeze. 
+#### I welcome prospective MS/PhD students and postdocs to contact me if interested.
+
+### Postdoc opening is temporarily on hold due to university-wide hiring freeze. 
 
 
 #### Description
