@@ -43,9 +43,6 @@ description: Statistical Bioinformatics
 
 ---
 
-### Now Hiring! 
-
-One to two postdoc research scholar position(s) are immediately available at our lab in statistical bioinformatics. Check the [Now Hiring!](https://hfenglab.org/hire.html) tab for details. 
 
 ### Bio
 
