@@ -5,8 +5,6 @@ title: Hiring
 
 #### I welcome prospective MS/PhD students and postdocs to contact me if interested.
 
-### Postdoc opening is temporarily on hold due to university-wide hiring freeze. 
-
 
 #### Description
 One to two postdoctoral scholar position(s) in statistical bioinformatics are available immediately at [the Feng Lab](https://hfenglab.org/) at [Case Western Reserve University](https://case.edu/). The research goal of our lab is to utilize statistical approaches to understand high-throughput computational biology data. Using data-driven approach and statistical methods, we translate the -omics signal from benchwork to knowledge in precision medicine. We aim to combine cutting-edge biotechnologies with various types of data to make biomedical discoveries. The successful candidate will be actively engaged in statistical methodology development and/or applied collaboration research in bioinformatics. The specific research focus can be tailored to the applicant. 
