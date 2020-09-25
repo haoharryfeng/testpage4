@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab members
+title: People
 ---
 
 Under construction.
