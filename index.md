@@ -2,7 +2,13 @@
 layout: page
 title: Statistical Bioinformatics
 tagline: Statistical Bioinformatics
-description: Statistical Bioinformatics
+
+<!---
+your comment goes here: description: Statistical Bioinformatics
+
+and here
+-->
+
 ---
 
 
