@@ -1,6 +1,5 @@
 ---
 layout: page
- <!-- end of Karl's footer; ;  -->
 title: Statistical Bioinformatics
 tagline: Statistical Bioinformatics
 description: Statistical Bioinformatics
