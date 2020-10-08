@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feng Lab
+ <!-- end of Karl's footer; title: Feng Lab -->
 tagline: Statistical Bioinformatics
 description: Statistical Bioinformatics
 ---
