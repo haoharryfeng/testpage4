@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Statistical Bioinformatics
-description: Statistical Bioinformatics
+title: test1
+tagline: test2
+description: test3
+
 <!---
-your comment goes here: tagline: Statistical Bioinformatics
-
-
+your comment goes here: 
 and here
 -->
 
