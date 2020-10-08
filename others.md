@@ -7,7 +7,7 @@ title: Tips and others
 
 - Jeff Leek: [Reading academic papers](https://github.com/jtleek/readingpapers)
 - Basic Unix &amp; Perl commands: [Unix and Perl to the Rescue](http://korflab.ucdavis.edu/unix_and_perl/)
-
+- Latex table generator: [Online](https://www.tablesgenerator.com/)
 
 
 
