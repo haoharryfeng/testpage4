@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Tips and others
 ---
 
 ### Useful links
