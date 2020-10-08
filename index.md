@@ -1,8 +1,8 @@
 ---
 layout: page
-title: test1
-tagline: test2
-description: test3
+title: Statistical Bioinformatics
+tagline:  
+description: Hao Feng's website in Statistical Bioinformatics
 ---
 
 
