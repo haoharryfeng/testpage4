@@ -3,12 +3,6 @@ layout: page
 title: test1
 tagline: test2
 description: test3
-
-<!---
-your comment goes here: 
-and here
--->
-
 ---
 
 
