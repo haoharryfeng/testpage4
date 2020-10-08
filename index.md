@@ -1,7 +1,8 @@
 ---
 layout: page
- <!-- end of Karl's footer; tagline: Statistical Bioinformatics; description: Statistical Bioinformatics -->
+ <!-- end of Karl's footer; ; description: Statistical Bioinformatics -->
 title: Statistical Bioinformatics
+tagline: Statistical Bioinformatics
 ---
 
 
