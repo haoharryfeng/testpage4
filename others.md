@@ -7,7 +7,7 @@ title: Tips and others
 
 - Basic Unix &amp; Perl commands: [Unix and Perl to the Rescue](http://korflab.ucdavis.edu/unix_and_perl/)
 - Latex table generator: [Online](https://www.tablesgenerator.com/)
-- Jeff Leek's book: [How to be a modern scientist (free!)](https://leanpub.com/modernscientist)
+- Jeff Leek's book (free!): [How to be a modern scientist](https://leanpub.com/modernscientist)
 
 
 
