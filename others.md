@@ -5,9 +5,9 @@ title: Tips and others
 
 ### Useful links
 
-- Jeff Leek: [Reading academic papers](https://github.com/jtleek/readingpapers)
 - Basic Unix &amp; Perl commands: [Unix and Perl to the Rescue](http://korflab.ucdavis.edu/unix_and_perl/)
 - Latex table generator: [Online](https://www.tablesgenerator.com/)
+- Jeff Leek's book: [How to be a modern scientist (free!)](https://leanpub.com/modernscientist)
 
 
 
