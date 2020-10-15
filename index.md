@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistical Bioinformatics
-tagline:  
+tagline: Feng Lab 
 description: Hao Feng's website in Statistical Bioinformatics
 ---
 
