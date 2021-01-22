@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PQHS 471: Machine Learning and Data Mining
+title: PQHS 471 Machine Learning and Data Mining
 ---
 
 
