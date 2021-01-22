@@ -2,6 +2,8 @@
 layout: page
 title: Hiring
 ---
+###We are hiring a master-level biostatistician. To find out more details and apply: [Click Here](https://careers.insidehighered.com/apply/2078339)
+
 
 #### I welcome prospective MS/PhD students and postdocs to contact me if interested.
 
