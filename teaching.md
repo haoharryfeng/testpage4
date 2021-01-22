@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 ##### Spring 2021
-PQHS 471: Machine Learning and Data Mining
+[PQHS 471: Machine Learning and Data Mining](https://hfenglab.org/PQHS471.html)
 
 (Guest Lecture) PQHS 452: Statistical Methods in Human Genetics
 
