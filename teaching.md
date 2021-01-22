@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 
+title: Teaching
 ---
 ##### Spring 2021
 PQHS 471: Machine Learning and Data Mining
+
 (Guest Lecture) PQHS 452: Statistical Methods in Human Genetics
 
 ##### Spring 2020
