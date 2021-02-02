@@ -11,11 +11,3 @@ title: Tips and others
 - David Donoho's insight into: [50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 
 
-
-### Personal
-
-In my leisure time, I am a fan of [swimming](https://case.edu/wellness/facultystaff/resources/fitness/veale-recreation-center) (summer), 
-[hiking](https://fitt.co/cleveland/articles/hiking-spots-around-cleveland) (spring and fall), 
-[skiing](https://www.bmbw.com/) (winter) and e-sports (all seasons!). 
-
-
