@@ -3,13 +3,10 @@ layout: page
 title: software
 ---
 
-I develop freely-available, open-source software packages in R/Bioconductor to analyze high-throughput genomics 
+I develop and maintain freely-available, open-source software packages in R/Bioconductor/CRAN/GitHub to analyze high-throughput genomics 
 data. They are available through [R cran](https://cran.r-project.org/), [Bioconductor](https://www.bioconductor.org/) 
 or [GitHub](https://github.com/haoharryfeng). 
 
-
-
-### developer
 
 - <a style="color: white;" class="btn btn-primary" href="https://bioconductor.org/packages/release/bioc/html/DSS.html">DSS</a> 
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/DSS/">Usage Stats</a> 
