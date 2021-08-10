@@ -15,7 +15,9 @@ or [GitHub](https://github.com/haoharryfeng).
   count-based sequencing data. It detectes differentially expressed genes (DEGs) from RNA-seq, and differentially methylated regions (DMRs) from 
   bisulfite sequencing (BS-seq) data. Available on [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DSS.html).
 
-- <a  style="color: white;" class="btn btn-primary" href="https://github.com/haoharryfeng/NeuCA">NeuCA</a><br/> 
+- <a  style="color: white;" class="btn btn-primary" href="https://github.com/haoharryfeng/NeuCA">NeuCA</a>
+  <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/NeuCA/">Usage Stats</a> 
+  <img src="https://bioconductor.org/shields/years-in-bioc/NeuCA.svg"><br/>
   (**Neu**ral-network based **C**ell type **A**nnotation): R/Bioconductor package for single-cell RNA-seq data cell type annotation, using neural-network approaches. NeuCA is flexible and adjust the classification method it will adopt, depending on cell types' correlation level. Currently available on [GitHub](https://github.com/haoharryfeng/NeuCA). Will be available on Bioconductor soon. 
 				       
 		       
