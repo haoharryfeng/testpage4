@@ -3,6 +3,8 @@ layout: page
 title: software
 ---
 
+<img align="left" src="./assets/pics/NeuCA_hex.png" width="156" height="180">
+
 I develop and maintain freely-available, open-source software packages in R/Bioconductor/CRAN/GitHub to analyze high-throughput genomics 
 data. They are available through [R cran](https://cran.r-project.org/), [Bioconductor](https://www.bioconductor.org/) 
 or [GitHub](https://github.com/haoharryfeng). 
