@@ -8,9 +8,12 @@ I develop and maintain freely-available, open-source software packages in R/Bioc
 data. They are available through [R cran](https://cran.r-project.org/), [Bioconductor](https://www.bioconductor.org/) 
 or [GitHub](https://github.com/haoharryfeng). 
 
-<img style="float: left;" src="./assets/pics/NeuCA_hex.png" width="156" height="180">
 
-
+<p float="left">
+  <img src="./assets/pics/NeuCA_hex.png" width="156" height="180" />
+<!--  	<img src="/img2.png" width="100" /> 
+  		<img src="/img3.png" width="100" /> 	-->
+</p>
 
 - <a style="color: white;" class="btn btn-primary" href="https://bioconductor.org/packages/release/bioc/html/DSS.html">DSS</a> 
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/DSS/">Usage Stats</a> 
