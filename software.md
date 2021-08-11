@@ -10,7 +10,7 @@ or [GitHub](https://github.com/haoharryfeng).
 
 
 <p float="left">
-  <img src="./assets/pics/NeuCA_hex.png" width="156" height="180" />
+  <img src="./assets/pics/NeuCA_hex.png" width="125" height="144" />
 <!--  	<img src="/img2.png" width="100" /> 
   		<img src="/img3.png" width="100" /> 	-->
 </p>
