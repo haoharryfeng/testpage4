@@ -3,6 +3,11 @@ layout: page
 title: Tips and others
 ---
 
+### CWRU HPC
+
+- Running STAR alignment software: [Short tutorial (./assets/pics/pdf-icon.png)](STAR_CWRU_HPC.pdf)
+
+
 ### Useful links
 
 - Basic Unix &amp; Perl commands: [Unix and Perl to the Rescue](http://korflab.ucdavis.edu/unix_and_perl/)
