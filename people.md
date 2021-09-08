@@ -74,7 +74,7 @@ title: People
   
     
         <div class="span5">
-            Wen Tang<br/>
+            <b>Wen Tang</b><br/>
             Biostatistician Research Associate<br/><br/>
 
             <div id="hide_email">
