@@ -17,7 +17,7 @@ title: People
 
     
         <div class="span5">
-            Daoyu Duan<br/>
+            <b>Daoyu Duan</b><br/>
             Ph.D. student in Epidemiology and Biostatistics<br/><br/>
 
             <div id="hide_email">
