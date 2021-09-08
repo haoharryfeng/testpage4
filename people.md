@@ -2,7 +2,7 @@
 layout: page
 title: People
 ---
-### Ph.D. Students
+### PhD Students
 ---
 
 
@@ -22,7 +22,34 @@ title: People
 
             <div id="hide_email">
             Email: <code>dxd429@case.edu</code><br/>
-      
+         <a href="https://www.linkedin.com/in/daoyu-duan-9b2571130/">LinkedIn</a><br/>
+    
+        </div>
+       
+        </div>
+    </div>
+</div>
+
+---
+
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/LM.png">
+            <img src="./assets/pics/LM.png"
+                  title="Leslie Meng" alt="Leslie Meng"/></a>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Guanqun (Leslie) Meng</b><br/>
+            Ph.D. student in Epidemiology and Biostatistics<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>gxm324@case.edu</code><br/>
+        <a href="https://www.linkedin.com/in/lesliemeng">LinkedIn</a><br/>
         </div>
        
         </div>
@@ -37,9 +64,9 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/DD.JPG">
-            <img src="./assets/pics/DD.JPG"
-                  title="Daoyu Duan" alt="Daoyu Duan"/></a>
+        <a href="./assets/pics/WT.png">
+            <img src="./assets/pics/WT.png"
+                  title="Wen Tang" alt="Wen Tang"/></a>
         	</div>
 
     
@@ -47,11 +74,11 @@ title: People
   
     
         <div class="span5">
-            Daoyu Duan<br/>
-            Ph.D. student in Epidemiology and Biostatistics<br/><br/>
+            Wen Tang<br/>
+            Biostatistician Research Associate<br/><br/>
 
             <div id="hide_email">
-            Email: <code>dxd429@case.edu</code><br/>
+            Email: <code>wxt175@case.edu</code><br/>
       
         </div>
        
