@@ -20,8 +20,6 @@ title: People
             <b>Daoyu Duan</b><br/>
             Ph.D. student in Epidemiology and Biostatistics<br/><br/>
 
-            <div id="hide_email">
-            Email: <code>dxd429@case.edu</code><br/>
          <a href="https://www.linkedin.com/in/daoyu-duan-9b2571130/">LinkedIn</a><br/>
     
         </div>
@@ -47,8 +45,6 @@ title: People
             <b>Guanqun (Leslie) Meng</b><br/>
             Ph.D. student in Epidemiology and Biostatistics<br/><br/>
 
-            <div id="hide_email">
-            Email: <code>gxm324@case.edu</code><br/>
         <a href="https://www.linkedin.com/in/lesliemeng">LinkedIn</a><br/>
         </div>
        
@@ -76,9 +72,6 @@ title: People
         <div class="span5">
             <b>Wen Tang</b><br/>
             Biostatistician Research Associate<br/><br/>
-
-            <div id="hide_email">
-            Email: <code>wxt175@case.edu</code><br/>
       
         </div>
        
