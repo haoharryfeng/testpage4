@@ -22,7 +22,7 @@ title: People
 
          <a href="https://www.linkedin.com/in/daoyu-duan-9b2571130/">LinkedIn</a><br/>
     
-        </div>
+    
        
         </div>
     </div>
@@ -48,7 +48,6 @@ title: People
         <a href="https://www.linkedin.com/in/lesliemeng">LinkedIn</a><br/>
         </div>
        
-        </div>
     </div>
 </div>
 
@@ -73,7 +72,6 @@ title: People
             <b>Wen Tang</b><br/>
             Biostatistician Research Associate<br/><br/>
       
-        </div>
        
         </div>
     </div>
