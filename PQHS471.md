@@ -11,7 +11,8 @@ title: PQHS 471 Machine Learning and Data Mining
 - Lecture 5 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_5_fund_sup.pdf)
 - Lecture 6 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_6_basic_class.pdf)
 - Lecture 7 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_7_reg.pdf)
-- Lecture 8 
+- midterm [link ![Lec1](./assets/pics/pdf-icon.png)](document.pdf)
+- Lecture 8 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_8_CV_boots.pdf)
 - Lecture 9 
 - Lecture 10 
 - Lecture 11 
