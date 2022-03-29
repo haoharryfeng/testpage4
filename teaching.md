@@ -8,3 +8,5 @@ title: Teaching
 (Guest Lecture) PQHS 452: Statistical Methods in Human Genetics [link ![Lec](./assets/pics/pdf-icon.png)](Multi_test_power.pdf)
 
 (Guest Lecture) PQHS 457: Current Issues in Genetic Epidemiology: Design and Analysis of Sequencing Studies [link ![Lec](./assets/pics/pdf-icon.png)](PQHS457_Epigenetics.pdf)
+
+ENAR2022 [link ![Lec](./assets/pics/pdf-icon.png)](NeuCA_ENAR2022_.pdf)
