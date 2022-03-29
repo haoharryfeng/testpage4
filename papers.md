@@ -2,8 +2,9 @@
 layout: page
 title: papers
 ---
+For the most up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 
-
+<!--
 ### Statistical Methodology
 
 **Feng H**, Jin P, Wu H. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
@@ -37,4 +38,4 @@ Almli LM, Duncan R, **Feng H**, Ghosh D, Binder EB, Bradley B, Ressler KJ, Conne
 
 Almli LM, Srivastava A, Fani N, Kerley K, Mercer KB, **Feng H**, Bradley B, Ressler KJ (2014) Correspondence. *Biological psychiatry* 76(4): e3-e4. [doi: 10.1016/j.biopsych.2014.01.017](https://doi.org/10.1016/j.biopsych.2014.01.017)
 
-Almli LM, Mercer KB, Kerley K, **Feng H**, Bradley B, Conneely KN, Ressler KJ (2013) ADCYAP1R1 genotype associates with post-traumatic stress symptoms in highly traumatized African-American females. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics* [doi: 10.1002/ajmg.b.32145](https://doi.org/10.1002/ajmg.b.32145)
+Almli LM, Mercer KB, Kerley K, **Feng H**, Bradley B, Conneely KN, Ressler KJ (2013) ADCYAP1R1 genotype associates with post-traumatic stress symptoms in highly traumatized African-American females. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics* [doi: 10.1002/ajmg.b.32145](https://doi.org/10.1002/ajmg.b.32145)  -->
