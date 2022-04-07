@@ -15,5 +15,5 @@ title: PQHS 471 Machine Learning and Data Mining (Spring 2022)
 - Lecture 8 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_8_CV_boots.pdf)
 - Lecture 9 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_9_tree.pdf)
 - Lecture 10 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_10_SVM.pdf)
-- Lecture 11 
+- Lecture 11 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_11_NN_DL.pdf)
 
