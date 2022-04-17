@@ -1,2 +1,7 @@
 _site
 Gemfile.lock
+.DS_Store
+_includes/themes/.DS_Store
+assets/.DS_Store
+assets/pics/.DS_Store
+pages/.DS_Store
