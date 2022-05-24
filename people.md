@@ -76,3 +76,15 @@ title: People
         </div>
     </div>
 </div>
+
+---
+
+### Undergraduate
+
+<div class="container">
+
+            <b>Sijia He</b><br/>
+            Undergraduate (2021 - 2022)<br/><br/>
+      
+    
+</div>
