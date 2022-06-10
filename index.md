@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Statistical Bioinformatics Lab at CWRU
+title: Welcome to Statistical Bioinformatics Group at CWRU
 tagline: 
 description: Hao Feng's website in Statistical Bioinformatics
 ---
