@@ -20,6 +20,3 @@ description: Hao Feng's website in Statistical Bioinformatics
 title="CWRU" alt="CWRU"/></a>
 </div>
         	
-</div>
-
----
