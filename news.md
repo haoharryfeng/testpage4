@@ -10,6 +10,7 @@ title: Lab News
 - (01/01/2022) Dr. Hao Feng (PI) received 1-year funding support from the Corinne L. Dodero Foundation for the Arts and Sciences and the Case Western Reserve University (CWRU) Program for Autism Education and Research. Congratulations!  
 - (12/21/2021) Drs. Ziyi Li and Hao Feng's work [A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data](https://www.nature.com/articles/s41598-021-04473-4) has been accepted for publication on *Scientific Reports*. Congratulations!
 - (11/01/2021) Dr. Hao Feng is invited to give a presentation on [Bioconductor Asia](https://biocasia2021.bioconductor.org/). 
+- (07/01/2021) PhD students Daoyu Duan and Guanqun(Leslie) Meng are joining the lab. Welcome Daoyu and Leslie!
 - (06/11/2021) Ms. Wen Tang is joining us in the role of biostatistician. Welcome Wen!
 - (04/23/2021) Dr. Hao Feng is invited to give a presentation on the Joint Biostatistics Symposium (OSU, CWRU, CCF). He is representing CWRU for this year's presentation. 
 
