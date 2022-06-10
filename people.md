@@ -2,6 +2,45 @@
 layout: page
 title: People
 ---
+### PI
+---
+
+<div class="container">
+
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/Feng.jpg">
+            <img src="./assets/pics/Feng.jpg"
+                  title="Harry Feng" alt="Harry Feng"/></a>
+        	</div>
+
+   
+    
+        <div class="span5">
+            Hao Harry Feng<br/>
+			Department of Population &amp; Quantitative Health Sciences<br/>
+            School of Medicine<br/>
+            Case Western Reserve University<br/>
+            10900 Euclid Avenue<br/>
+            SOM / Room G82T<br/>
+            Cleveland, OH 44106<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>hxf155@case.edu</code><br/>
+             <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/hao-harry-feng/">My official webpage at CWRU</a><br/>
+      
+        </div>
+       
+        </div>
+    </div>
+</div>
+
+---
+
+
+
 ### PhD Students
 ---
 
