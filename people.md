@@ -3,7 +3,6 @@ layout: page
 title: People
 ---
 ### PI
----
 
 <div class="container">
 
@@ -32,7 +31,6 @@ title: People
 
 
 ### PhD Students
----
 
 
 <div class="container">
