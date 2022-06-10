@@ -22,7 +22,10 @@ title: People
 			Assistant Professor<br/><br/>
 
    
+        </div>
+    </div>
 </div>
+
 
 ---
 
