@@ -18,14 +18,10 @@ title: People
    
     
         <div class="span5">
-            Hao 'Harry' Feng<br/>
+            <b>Hao 'Harry' Feng</b><br/>
 			Assistant Professor<br/><br/>
 
-        
-        </div>
-       
-        </div>
-    </div>
+   
 </div>
 
 ---
