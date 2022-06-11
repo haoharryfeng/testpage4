@@ -1,6 +1,6 @@
 ---
 layout: page
-title: papers
+title: Publications
 ---
 For the most up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 
@@ -13,13 +13,13 @@ Ziyi Li, **Hao Feng**. A neural network-based method for exhaustive cell label a
 
 **Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. [doi: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 2019
 
-**Feng H**, Jin P, Wu H. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
+**Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
 
-Zhang WW<sup>&dagger;</sup>, **Feng H**<sup>&dagger;</sup>, Wu H, Zheng XQ. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. *Bioinformatics*. 33 (17), 2651-2657. [doi: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 2017.
+Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Wu H, Zheng XQ. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. *Bioinformatics*. [doi: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 2017.
 
-Wu H, Xu T, **Feng H**, Chen L, Li B, Yao B, Qin ZS, Jin P, Conneely KN. Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. *Nucleic Acids Research* 43 (21): e141. [doi: 10.1093/nar/gkv715](https://doi.org/10.1093/nar/gkv715). 2015.
+Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, Peng Jin, Karen N. Conneely. Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. *Nucleic Acids Research*. [doi: 10.1093/nar/gkv715](https://doi.org/10.1093/nar/gkv715). 2015.
 
-**Feng H**, Conneely KN, Wu H. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. *Nucleic Acids Research* 42 (8): e69. [doi: 10.1093/nar/gku154](https://doi.org/10.1093/nar/gku154). 2014.
+**Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. *Nucleic Acids Research*. [doi: 10.1093/nar/gku154](https://doi.org/10.1093/nar/gku154). 2014.
 
 
 &dagger; = co-first authorship; these authors contributed equally    
@@ -50,4 +50,5 @@ Almli LM, Mercer KB, Kerley K, **Feng H**, Bradley B, Conneely KN, Ressler KJ (2
 ---
 ### Thesis 
 **Hao Feng**. Statistical Methods for High-throughput Epigenomics Data. Ph.D. Dissertation. Emory University. 2019
+
 **Hao Feng**. A Hierarchical Bayesian Approach to Detect Differentially Methylated Loci from Bisulfite Sequencing Data. Master's Thesis. Emory University. 2013
