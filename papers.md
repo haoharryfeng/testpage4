@@ -7,11 +7,11 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 ---
 ### Statistical Methodology Work
 
-Daoyu Duan, Sijia He, Emina Huang, Ziyi Li, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. *Bioinformatics*. [doi: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 2022
+Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. *Bioinformatics*. [doi: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 2022.
 
-Ziyi Li, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. *Scientific Reports*. [doi: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 2022
+Ziyi Li, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. *Scientific Reports*. [doi: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 2022.
 
-**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. [doi: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 2019
+**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. [doi: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 2019.
 
 **Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
 
