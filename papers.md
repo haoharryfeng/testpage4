@@ -4,8 +4,14 @@ title: papers
 ---
 For the most up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 
-<!--
-### Statistical Methodology
+---
+### Statistical Methodology Work
+
+Daoyu Duan, Sijia He, Emina Huang, Ziyi Li, **Hao Feng**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. *Bioinformatics*. [doi: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 2022
+
+Ziyi Li, **Hao Feng**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. *Scientific Reports*. [doi: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 2022
+
+**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. [doi: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 2019
 
 **Feng H**, Jin P, Wu H. Disease prediction by cell-free DNA methylation. *Briefings in Bioinformatics*. [doi: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 2018.
 
@@ -18,11 +24,8 @@ Wu H, Xu T, **Feng H**, Chen L, Li B, Yao B, Qin ZS, Jin P, Conneely KN. Detecti
 
 &dagger; = co-first authorship; these authors contributed equally    
 
-### Protocol 
-
-**Feng H**, Wu H. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. To appear. 2019
-
-### Collaborative
+---
+### Collaborative Work
 
 Kennedy EM, Powell DR, Li Z, Bell JSK, Barwick BG, **Feng H**, McCrary MR, Dwivedi B, Kowalski J, Dynan WS, Conneely KN, Vertino PM (2018) Galactic cosmic radiation induces persistent epigenome alterations relevant to human lung cancer. *Scientific Reports* [doi: 10.1038/s41598-018-24755-8](https://doi.org/10.1038/s41598-018-24755-8) 
 
@@ -38,4 +41,13 @@ Almli LM, Duncan R, **Feng H**, Ghosh D, Binder EB, Bradley B, Ressler KJ, Conne
 
 Almli LM, Srivastava A, Fani N, Kerley K, Mercer KB, **Feng H**, Bradley B, Ressler KJ (2014) Correspondence. *Biological psychiatry* 76(4): e3-e4. [doi: 10.1016/j.biopsych.2014.01.017](https://doi.org/10.1016/j.biopsych.2014.01.017)
 
-Almli LM, Mercer KB, Kerley K, **Feng H**, Bradley B, Conneely KN, Ressler KJ (2013) ADCYAP1R1 genotype associates with post-traumatic stress symptoms in highly traumatized African-American females. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics* [doi: 10.1002/ajmg.b.32145](https://doi.org/10.1002/ajmg.b.32145)  -->
+Almli LM, Mercer KB, Kerley K, **Feng H**, Bradley B, Conneely KN, Ressler KJ (2013) ADCYAP1R1 genotype associates with post-traumatic stress symptoms in highly traumatized African-American females. *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics* [doi: 10.1002/ajmg.b.32145](https://doi.org/10.1002/ajmg.b.32145) 
+
+---
+### Book Chapter 
+**Hao Feng**, Karen Conneely & Hao Wu (2022). Differential Methylation Analysis for Bisulfite Sequencing (BS-Seq) Data. *Epigenome-Wide Association Studies*. [DOI: 10.1007/978-1-0716-1994-0_16](https://doi.org/10.1007/978-1-0716-1994-0_16) Part of the *Methods in Molecular Biology* book series. Humana Press, Springer. 
+
+---
+### Thesis 
+**Hao Feng**. Statistical Methods for High-throughput Epigenomics Data. Ph.D. Dissertation. Emory University. 2019
+**Hao Feng**. A Hierarchical Bayesian Approach to Detect Differentially Methylated Loci from Bisulfite Sequencing Data. Master's Thesis. Emory University. 2013
