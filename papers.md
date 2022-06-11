@@ -7,9 +7,9 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 ---
 ### Statistical Methodology Work
 
-Daoyu Duan, Sijia He, Emina Huang, Ziyi Li, **Hao Feng**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. *Bioinformatics*. [doi: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 2022
+Daoyu Duan, Sijia He, Emina Huang, Ziyi Li, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. *Bioinformatics*. [doi: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 2022
 
-Ziyi Li, **Hao Feng**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. *Scientific Reports*. [doi: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 2022
+Ziyi Li, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. *Scientific Reports*. [doi: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 2022
 
 **Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. *Quantitative Biology*. [doi: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 2019
 
@@ -22,7 +22,9 @@ Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, 
 **Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. *Nucleic Acids Research*. [doi: 10.1093/nar/gku154](https://doi.org/10.1093/nar/gku154). 2014.
 
 
-&dagger; = co-first authorship; these authors contributed equally    
+&dagger; = co-first authorship; these authors contributed equally   
+ 
+&#42; = corresponding authorship    
 
 ---
 ### Collaborative Work
