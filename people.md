@@ -133,12 +133,13 @@ title: People
 ---
 
 
-### Undergraduate
+### Lab Alumni
 
 <div class="container">
 
             <b>Sijia He</b><br/>
-            Undergraduate <br/><br/>
+            CWRU undergraduate student (2018-2022) <br/><br/>
+            Current position: MS Biostatistics student at University of Michigan <br/><br/>
       
     
 </div>
