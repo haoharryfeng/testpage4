@@ -105,13 +105,40 @@ title: People
 </div>
 
 ---
+### Visiting Student
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/AS.png">
+            <img src="./assets/pics/AS.png"
+                  title="Aditi Singh" alt="Aditi Singh"/></a>
+        	</div>
+
+    
+
+  
+    
+        <div class="span5">
+            <b>Aditi Singh</b><br/>
+            Graduate Student<br/><br/> 
+            Center for Molecular Medicine and Genetics, Wayne State University<br/><br/>
+      
+       
+        </div>
+    </div>
+</div>
+
+---
+
 
 ### Undergraduate
 
 <div class="container">
 
             <b>Sijia He</b><br/>
-            Undergraduate (2021 - 2022)<br/><br/>
+            Undergraduate <br/><br/>
       
     
 </div>
