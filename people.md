@@ -19,7 +19,8 @@ title: People
         <div class="span5">
             <b>Hao 'Harry' Feng</b><br/>
 			Assistant Professor<br/><br/>
-
+      <a href="https://hfenglab.org/PI.html">About the PI</a><br/>
+   
    
         </div>
     </div>
