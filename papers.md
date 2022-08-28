@@ -37,7 +37,7 @@ Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan A Pillai,
 
 Yunhee Kang, Ying Zhou, Yujing Li, Yanfei Han, Jie Xu, Weibo Niu, Ziyi Li, Shiying Liu, **Hao Feng**, Wen Huang, Ranhui Duan, Tianmin Xu, Nisha Raj, Feiran Zhang, Juan Dou, Chongchong Xu, Hao Wu, Gary J Bassell, Stephen T Warren, Emily G Allen, Peng Jin, Zhexing Wen. A human forebrain organoid model of fragile X syndrome exhibits altered neurogenesis and highlights new treatment strategies. (2021) *Nature Neuroscience* [DOI: 10.1038/s41593-021-00913-6](https://doi.org/10.1038/s41593-021-00913-6) 
 
-Bin Jiao, Mengli Wang, **Hao Feng**, Han Bao, Feiran Zhang, Hao Wu, Junling Wang, Beisha Tang, Peng Jin, Lu Shen. A human forebrain organoid model of fragile X syndrome exhibits altered neurogenesis and highlights new treatment strategies. (2021) *Human Molecular Genetics* [DOI: 10.1093/hmg/ddab079](https://doi.org/10.1093/hmg/ddab079) 
+Bin Jiao, Mengli Wang, **Hao Feng**, Han Bao, Feiran Zhang, Hao Wu, Junling Wang, Beisha Tang, Peng Jin, Lu Shen. Downregulation of TOP2 modulates neurodegeneration caused by GGGGCC expanded repeats. (2021) *Human Molecular Genetics* [DOI: 10.1093/hmg/ddab079](https://doi.org/10.1093/hmg/ddab079) 
 
 Samaneh K Sarvestani, Steven Signs, Bo Hu, Yunku Yeu, **Hao Feng**, Ying Ni, David R Hill, Robert C Fisher, Sylvain Ferrandon, Reece K DeHaan, Jennifer Stiene, Michael Cruise, Tae Hyun Hwang, Xiling Shen, Jason R Spence, Emina H Huang. Galactic cosmic radiation induces persistent epigenome alterations relevant to human lung cancer. (2021) *Nature Communications* [DOI: 10.1038/s41467-020-20351-5](https://doi.org/10.1038/s41467-020-20351-5) 
 
