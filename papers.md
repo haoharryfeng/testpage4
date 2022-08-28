@@ -5,7 +5,7 @@ title: Publications
 For the most up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 
 ---
-### Statistical Methodology Work
+### Statistical Methodology Publications
 
 **Hao Feng**, Guanqun Meng, Tong Lin, Hemang Parikh, Ziyi Li, Jeffery Krischer and Qian Li. ISLET: individual-specific reference panel deconvolution and temporal cell-type-specific differential analysis. (2022) *Manuscript in preparation*.
 
@@ -19,7 +19,7 @@ Ziyi Li, **Hao Feng&#42;**. A neural network-based method for exhaustive cell la
 
 **Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 
 
-Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Wu H, Zheng XQ. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 
+Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 
 
 **Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014) *Nucleic Acids Research*. [DOI: 10.1093/nar/gku154](https://doi.org/10.1093/nar/gku154). 
 
@@ -29,7 +29,7 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Wu H, Zheng XQ
 &#42; = corresponding authorship    
 
 ---
-### Collaborative Work
+### Team Science Publications
 
 Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022) *The Journal of Immunology* [DOI: 10.4049/jimmunol.2100771](https://doi.org/10.4049/jimmunol.2100771) 
 
