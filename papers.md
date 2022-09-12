@@ -9,7 +9,7 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 
 **Hao Feng**, Guanqun Meng, Tong Lin, Hemang Parikh, Ziyi Li, Jeffery Krischer and Qian Li. ISLET: individual-specific reference panel deconvolution and temporal cell-type-specific differential analysis. (2022) *Manuscript in preparation*.
 
-Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in Bulk Data. (2022) *Submitted*. 
+Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in Bulk Data. (2022) *Under invited revision*. 
 
 Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 
 
