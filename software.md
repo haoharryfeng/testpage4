@@ -31,8 +31,10 @@ or [GitHub](https://github.com/haoharryfeng).
   <img src="https://bioconductor.org/shields/years-in-bioc/NeuCA.svg"><br/>
   (**Neu**ral-network based **C**ell type **A**nnotation): R/Bioconductor package for single-cell RNA-seq data cell type annotation, using neural-network approaches. NeuCA is flexible and adjust the classification method it will adopt, depending on cell types' correlation level. Currently available on [Bioconductor](https://bioconductor.org/packages/NeuCA/). 
 
-- <a  style="color: white;" class="btn btn-primary" href="https://github.com/haoharryfeng/ISLET">ISLET</a><br/> 
-  ISLET (**I**ndividual-**S**pecific ce**L**l typ**E** referencing **T**ool) can deconvolute mixture samples and obtain the individual-specific and cell-type-specific reference panels. Available on [GitHub](https://github.com/haoharryfeng/ISLET). In submission to Bioconductor. 
+- <a  style="color: white;" class="btn btn-primary" href="https://github.com/haoharryfeng/ISLET">ISLET</a>
+  <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/ISLET/">Usage Stats</a> 
+  <img src="https://bioconductor.org/shields/years-in-bioc/ISLET.svg"><br/>
+  ISLET (**I**ndividual-**S**pecific ce**L**l typ**E** referencing **T**ool) can deconvolute mixture samples and obtain the individual-specific and cell-type-specific reference panels, for repeatedly measured subjects' bulk data. Available on [Bioconductor](https://www.bioconductor.org/packages/ISLET/).
 				       
 		       
 - <a  style="color: white;" class="btn btn-primary" href="https://CRAN.R-project.org/package=InfiniumPurify">InfiniumPurify</a><br/> 
