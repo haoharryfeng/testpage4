@@ -31,7 +31,13 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 &#42; = corresponding authorship    
 
 ---
+### Book Chapter 
+**Hao Feng**, Karen Conneely & Hao Wu (2022). Differential Methylation Analysis for Bisulfite Sequencing (BS-Seq) Data. *Epigenome-Wide Association Studies*. [DOI: 10.1007/978-1-0716-1994-0_16](https://doi.org/10.1007/978-1-0716-1994-0_16) Part of the *Methods in Molecular Biology* book series. Humana Press, Springer. 
+
+---
 ### Team Science Publications
+
+Wei Zhang, Moeez Rathore, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022) *Submitted*. 
 
 Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022) *The Journal of Immunology* [DOI: 10.4049/jimmunol.2100771](https://doi.org/10.4049/jimmunol.2100771) 
 
@@ -61,9 +67,6 @@ Lynn M Almli, Amita Srivastava, Negar Fani, Kimberly Kerley, Kristina B Mercer, 
 
 Lynn M Almli, Kristina B Mercer, Kimberly Kerley, **Hao Feng**, Bekh Bradley, Karen N Conneely, Kerry J Ressler. ADCYAP1R1 genotype associates with post‐traumatic stress symptoms in highly traumatized African‐American females. (2013) *American Journal of Medical Genetics Part B: Neuropsychiatric Genetics*. [DOI: 10.1002/ajmg.b.32145](https://doi.org/10.1002/ajmg.b.32145). 
 
----
-### Book Chapter 
-**Hao Feng**, Karen Conneely & Hao Wu (2022). Differential Methylation Analysis for Bisulfite Sequencing (BS-Seq) Data. *Epigenome-Wide Association Studies*. [DOI: 10.1007/978-1-0716-1994-0_16](https://doi.org/10.1007/978-1-0716-1994-0_16) Part of the *Methods in Molecular Biology* book series. Humana Press, Springer. 
 
 ---
 ### Thesis 
