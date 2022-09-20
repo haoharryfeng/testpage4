@@ -15,7 +15,7 @@ Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A Comprehensive
 
 Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 
 
-Ziyi Li, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022) *Scientific Reports*. [DOI: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 
+Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022) *Scientific Reports*. [DOI: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 
 
 **Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. (2019) *Quantitative Biology*. [DOI: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 
 
