@@ -22,8 +22,8 @@ title: Tips and others
 - Teaming for Excellence: [challenges and collaboration in the world of reproductive clinical and translational research ![CV as pdf](./assets/pics/pdf-icon.png)](teaming_for_exce.pdf)
 - A Guide to Machine Learning for Biologists: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NRev21.pdf)
 
-### JSM 2022 Talk 
-- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NeuCA_JSM.pdf)
+<!-- ### JSM 2022 Talk 
+- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NeuCA_JSM.pdf) -->
 
 ### Mizzou 2022 Talk 
 - LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](dissect.pdf)
