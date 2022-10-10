@@ -25,4 +25,8 @@ title: Tips and others
 ### JSM 2022 Talk 
 - LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NeuCA_JSM.pdf)
 
+### Mizzou 2022 Talk 
+- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](dissect.pdf)
+
+
 
