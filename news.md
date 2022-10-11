@@ -4,6 +4,7 @@ title: Lab News
 ---
 
 ### 2022
+- (10/10/2022) Dr. Hao Feng was invited to give a presentation at the Department of Statistics in the University of Missouri - Columbia, to introduce a novel method in admixed transcriptome data analysis. 
 - (10/03/2022) Dr. Hao Feng (PI) received a pilot award from American Cancer Society Institutional Research Grants (ACS IRG), through Case Comprehensive Cancer Center. 
 - (08/07/2022) Dr. Hao Feng gave a presentation on [JSM 2022](https://ww2.amstat.org/meetings/jsm/2022/) to introduce [NeuCA](https://bioconductor.org/packages/NeuCA/). 
 - (07/11/2022) Aditi Singh is joining us as a visiting student. She is currently a graduate student from Wayne State University, Center for Molecular Medicine and Genetics. Welcome Aditi!
