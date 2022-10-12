@@ -22,7 +22,7 @@ description: Hao Feng's website in Statistical Bioinformatics
   
     
         <div class="span5">
-            Hao Harry Feng(冯浩)<br/>
+            Hao Harry Feng (冯浩)<br/>
             <a href="https://case.edu/medicine/pqhs/">Department of Population &amp; Quantitative Health Sciences</a><br/>
             <a href="https://case.edu/medicine/">School of Medicine</a><br/>
             <a href="https://case.edu/">Case Western Reserve University</a><br/>
