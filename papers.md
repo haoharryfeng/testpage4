@@ -7,9 +7,9 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 ---
 ### Statistical Methodology Publications
 
-Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of Differential Epitranscriptome Analysis Methods. (2022) *Manuscript in preparation*.
+Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of Differential Epitranscriptome Analysis Methods. (2022) *Submitted*.
 
-**Hao Feng**, Guanqun Meng, Tong Lin, Hemang Parikh, Ziyi Li, Jeffery Krischer and Qian Li. ISLET: individual-specific reference panel deconvolution and temporal cell-type-specific differential analysis. (2022) *Manuscript in preparation*.
+**Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2022) *Submitted*.
 
 Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in Bulk Data. (2022) *Briefings in Bioinformatics*. Accepted.  
 
