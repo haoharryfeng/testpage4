@@ -4,6 +4,7 @@ title: Lab News
 ---
 
 ### 2022
+- (12/01/2022) Dr. Hao Feng was invited to give a presentation in the Department of Biostatistics at the University of Pittsburgh, to introduce novel methods in admixed transcriptome data analysis. 
 - (10/20/2022) Dr. Hao Feng was invited to give a presentation in the Department of Statistics at University of South Carolina, to introduce a novel method in admixed transcriptome data analysis. 
 - (10/10/2022) Dr. Hao Feng was invited to give a presentation in the Department of Statistics at University of Missouri, to introduce a novel method in admixed transcriptome data analysis. 
 - (10/03/2022) Dr. Hao Feng (PI) received a pilot award from American Cancer Society Institutional Research Grants (ACS IRG), through Case Comprehensive Cancer Center. 
