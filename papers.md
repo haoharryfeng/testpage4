@@ -37,6 +37,8 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 ---
 ### Team Science Publications
 
+Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2022) *Submitted*.
+
 Wei Zhang, Moeez Rathore, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022) *Submitted*. 
 
 Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022) *The Journal of Immunology* [DOI: 10.4049/jimmunol.2100771](https://doi.org/10.4049/jimmunol.2100771) 
