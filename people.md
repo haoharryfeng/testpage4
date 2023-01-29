@@ -112,6 +112,31 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
+        <a href="./assets/pics/SH.JPG">
+            <img src="./assets/pics/SH.JPG"
+                  title="Sijia He" alt="Sijia He"/></a>
+        	</div>
+
+    
+
+  
+    
+        <div class="span5">
+            <b>Sijia He</b><br/>
+            MS Student in Biostatistics<br/><br/> 
+            University of Michigan School of Public Health, Department of Biostatistics<br/><br/>
+      
+       
+        </div>
+    </div>
+</div>
+
+---
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
         <a href="./assets/pics/AS.png">
             <img src="./assets/pics/AS.png"
                   title="Aditi Singh" alt="Aditi Singh"/></a>
