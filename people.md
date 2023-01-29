@@ -106,7 +106,7 @@ title: People
 </div>
 
 ---
-### Visiting Student
+### Visiting Students
 
 <div class="container">
 
@@ -124,7 +124,7 @@ title: People
         <div class="span5">
             <b>Sijia He</b><br/>
             MS Student in Biostatistics<br/><br/> 
-            University of Michigan School of Public Health, Department of Biostatistics<br/><br/>
+            Department of Biostatistics, University of Michigan School of Public Health<br/><br/>
       
        
         </div>
