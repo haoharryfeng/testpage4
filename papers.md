@@ -11,7 +11,7 @@ Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluat
 
 **Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2022) *Submitted*.
 
-Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2022) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bbac516](https://doi.org/10.1093/bib/bbac516).  
+Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2023) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bbac516](https://doi.org/10.1093/bib/bbac516).  
 
 Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 
 
@@ -36,6 +36,7 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 
 ---
 ### Team Science Publications
+Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023) *Submitted*.
 
 Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2022) *Submitted*.
 
