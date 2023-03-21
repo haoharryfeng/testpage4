@@ -2,6 +2,8 @@
 layout: page
 title: Lab News
 ---
+### 2023
+- (03/20/2023) Daoyu Duan's paper Evaluation of Epitranscriptome-wide N6-methyladenosine Differential Analysis Methods has been accepted for publication on *Briefings in Bioinformatics*. Congratulations Daoyu and great team science work with Dr. Zhenxing Guo from The Chinese University of Hong Kong, Shenzhen!
 
 ### 2022
 - (12/07/2022) Leslie Meng's paper [A comprehensive assessment of cell type-specific differential expression methods in bulk data](https://doi.org/10.1093/bib/bbac516) has been accepted for publication on *Briefings in Bioinformatics*. Congratulations Leslie!
