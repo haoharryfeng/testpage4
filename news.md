@@ -3,6 +3,9 @@ layout: page
 title: Lab News
 ---
 ### 2023
+- (07/07/2023) Dr. Hao Feng was invited to give a presentation in [ICSA International 2023](https://international2023.icsa.org/) to introduce a method to retrieve individual-specific and cell-type-specific reference panels from -omics data, using [ISLET](https://bioconductor.org/packages/ISLET/). 
+- (06/19/2023) Dr. Hao Feng was invited to give a presentation in [WNAR 2023](https://www.wnar.org/wnar2023) to introduce a method to retrieve individual-specific and cell-type-specific reference panels from -omics data, using [ISLET](https://bioconductor.org/packages/ISLET/). 
+- (04/21/2023) Dr. Hao Feng was invited to give a presentation in [Case Comprehensive Cancer Center](https://case.edu/cancer/) to describe the signal deconvolution methods development in -omics data. 
 - (03/20/2023) Daoyu Duan's paper [Evaluation of epitranscriptome-wide N6-methyladenosine differential analysis methods](https://doi.org/10.1093/bib/bbad139) has been accepted for publication on *Briefings in Bioinformatics*. Congratulations Daoyu and great team-science work with Dr. Zhenxing Guo from The Chinese University of Hong Kong-Shenzhen!
 
 ### 2022
