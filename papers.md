@@ -36,9 +36,14 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 
 ---
 ### Team Science Publications
-Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2022) *Submitted*.
 
-Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023) *Accepted*.
+Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2023) *Submitted*.
+
+Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Lee M Ellis, Jordan Winter, Stephen E Moss, John Greenwood, Rui Wang. LRG1 is a novel HER3 ligand to promote growth in colorectal cancer. (2023) *Submitted*.
+
+Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2023) *Submitted*.
+
+Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023) *Acta Neuropathologica Communications*. [DOI: 10.1186/s40478-023-01552-7](https://doi.org/10.1186/s40478-023-01552-7) 
 
 Moeez Rathore, Wei Zhang, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022)  *Journal of Cancer Science and Clinical Therapeutics* [DOI: 10.26502/jcsct.5079182](https://doi.org/10.26502%2Fjcsct.5079182) 
 
