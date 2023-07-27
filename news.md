@@ -3,6 +3,7 @@ layout: page
 title: Lab News
 ---
 ### 2023
+- (07/26/2023) Our paper on individual-specific deconvolution reference panel recovery is now published on [Genome Biology](https://doi.org/10.1186/s13059-023-03014-8). Congratulations everyone, and great team-science work with Dr. Qian Li's group from St. Jude Children's Research Hospital. 
 - (07/07/2023) Dr. Hao Feng was invited to give a presentation in [ICSA International 2023](https://international2023.icsa.org/) to introduce a method to retrieve individual-specific and cell-type-specific reference panels from -omics data, using [ISLET](https://bioconductor.org/packages/ISLET/). 
 - (06/19/2023) Dr. Hao Feng was invited to give a presentation in [WNAR 2023](https://www.wnar.org/wnar2023) to introduce a method to retrieve individual-specific and cell-type-specific reference panels from -omics data, using [ISLET](https://bioconductor.org/packages/ISLET/). 
 - (04/21/2023) Dr. Hao Feng was invited to give a presentation in [Case Comprehensive Cancer Center](https://case.edu/cancer/) to describe the signal deconvolution methods development in -omics data. 
