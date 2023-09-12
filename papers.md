@@ -11,21 +11,21 @@ Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia 
 
 **Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2023). [**Genome Biology**](https://doi.org/10.1186/s13059-023-03014-8).
 
-Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of epitranscriptome-wide N6-methyladenosine differential analysis methods. (2023) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bbad139](https://doi.org/10.1093/bib/bbad139). 
+Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of epitranscriptome-wide N6-methyladenosine differential analysis methods. (2023). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bbad139). 
 
-Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2023) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bbac516](https://doi.org/10.1093/bib/bbac516).  
+Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2023). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bbac516).  
 
-Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btac108](https://doi.org/10.1093/bioinformatics/btac108). 
+Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022). [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btac108). 
 
-Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022) *Scientific Reports*. [DOI: 10.1038/s41598-021-04473-4](https://doi.org/10.1038/s41598-021-04473-4). 
+Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022). [**Scientific Reports**](https://doi.org/10.1038/s41598-021-04473-4). 
 
-**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. (2019) *Quantitative Biology*. [DOI: 10.1007/s40484-019-0183-8](https://doi.org/10.1007/s40484-019-0183-8). 
+**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. (2019). [**Quantitative Biology**](https://doi.org/10.1007/s40484-019-0183-8). 
 
-**Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018) *Briefings in Bioinformatics*. [DOI: 10.1093/bib/bby029](https://doi.org/10.1093/bib/bby029). 
+**Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bby029). 
 
-Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017) *Bioinformatics*. [DOI: 10.1093/bioinformatics/btx303](https://doi.org/10.1093/bioinformatics/btx303). 
+Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017). [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btx303). 
 
-**Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014) *Nucleic Acids Research*. [DOI: 10.1093/nar/gku154](https://doi.org/10.1093/nar/gku154). 
+**Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014). [**Nucleic Acids Research**](https://doi.org/10.1093/nar/gku154). 
 
 
 &dagger; = co-first authorship; these authors contributed equally   
@@ -34,7 +34,7 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 
 ---
 ### Book Chapter 
-**Hao Feng**, Karen Conneely & Hao Wu (2022). Differential Methylation Analysis for Bisulfite Sequencing (BS-Seq) Data. *Epigenome-Wide Association Studies*. [DOI: 10.1007/978-1-0716-1994-0_16](https://doi.org/10.1007/978-1-0716-1994-0_16) Part of the *Methods in Molecular Biology* book series. Humana Press, Springer. 
+**Hao Feng**, Karen Conneely & Hao Wu. Differential Methylation Analysis for Bisulfite Sequencing (BS-Seq) Data. (2022). [**Epigenome-Wide Association Studies**](https://doi.org/10.1007/978-1-0716-1994-0_16) Part of the *Methods in Molecular Biology* book series. Humana Press, Springer. 
 
 ---
 ### Team Science Publications
