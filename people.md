@@ -106,6 +106,8 @@ title: People
 </div>
 
 ---
+
+<!--
 ### Visiting Students
 
 <div class="container">
@@ -158,6 +160,7 @@ title: People
 
 ---
 
+-->
 
 ### Lab Alumni
 
