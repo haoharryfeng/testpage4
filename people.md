@@ -47,10 +47,11 @@ title: People
         <div class="span5">
             <b>Daoyu Duan</b><br/>
             Ph.D. student in Epidemiology and Biostatistics<br/><br/>
+         <a href="https://scholar.google.com/citations?user=wEgimXkAAAAJ&hl=en">Google Scholar</a><br/>
 
          <a href="https://www.linkedin.com/in/daoyu-duan-9b2571130/">LinkedIn</a><br/>
     
-    
+   
        
         </div>
     </div>
@@ -87,8 +88,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/WT.png">
-            <img src="./assets/pics/WT.png"
+        <a href="./assets/pics/WT2.jpeg">
+            <img src="./assets/pics/WT2.jpeg"
                   title="Wen Tang" alt="Wen Tang"/></a>
         	</div>
 
@@ -99,7 +100,8 @@ title: People
         <div class="span5">
             <b>Wen Tang</b><br/>
             Biostatistician Research Associate<br/><br/>
-      
+            
+    <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
        
         </div>
     </div>
