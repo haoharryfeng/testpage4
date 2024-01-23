@@ -38,8 +38,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/DD.JPG">
-            <img src="./assets/pics/DD.JPG"
+        <a href="./assets/pics/DD2.jpeg">
+            <img src="./assets/pics/DD2.jpeg"
                   title="Daoyu Duan" alt="Daoyu Duan"/></a>
         	</div>
 
