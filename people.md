@@ -64,8 +64,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/LM.png">
-            <img src="./assets/pics/LM.png"
+        <a href="./assets/pics/LM2.jpeg">
+            <img src="./assets/pics/LM2.jpeg"
                   title="Leslie Meng" alt="Leslie Meng"/></a>
         	</div>
 
