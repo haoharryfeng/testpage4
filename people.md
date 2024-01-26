@@ -73,6 +73,7 @@ title: People
         <div class="span5">
             <b>Guanqun (Leslie) Meng</b><br/>
             Ph.D. student in Epidemiology and Biostatistics<br/><br/>
+         <a href="https://scholar.google.com/citations?user=n-294NQAAAAJ&hl=en">Google Scholar</a><br/>
 
         <a href="https://www.linkedin.com/in/lesliemeng">LinkedIn</a><br/>
         </div>
