@@ -40,6 +40,7 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 
 ---
 ### Team Science Publications
+Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2023) *Submitted*.   
 
 Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2023) *Submitted*.
 
@@ -47,15 +48,15 @@ Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masar
 
 Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2023) *Submitted*.
 
-Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023) *Acta Neuropathologica Communications*. [DOI: 10.1186/s40478-023-01552-7](https://doi.org/10.1186/s40478-023-01552-7) 
+Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023)[**Acta Neuropathologica Communications**](https://doi.org/10.1186/s40478-023-01552-7).
 
-Moeez Rathore, Wei Zhang, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022)  *Journal of Cancer Science and Clinical Therapeutics* [DOI: 10.26502/jcsct.5079182](https://doi.org/10.26502%2Fjcsct.5079182) 
+Moeez Rathore, Wei Zhang, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022)  [**Journal of Cancer Science and Clinical Therapeutics**](https://doi.org/10.26502%2Fjcsct.5079182). 
 
-Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022) *The Journal of Immunology* [DOI: 10.4049/jimmunol.2100771](https://doi.org/10.4049/jimmunol.2100771) 
+Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022) [**The Journal of Immunology**](https://doi.org/10.4049/jimmunol.2100771) 
 
-Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan A Pillai, Stephen M Rao, **Hao Feng**, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2021) *Alzheimer's & Dementia* [DOI: 10.1002/alz.053211](https://doi.org/10.1002/alz.053211) 
+Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan A Pillai, Stephen M Rao, **Hao Feng**, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2021) [**Alzheimer's & Dementia**](https://doi.org/10.1002/alz.053211) 
 
-Yunhee Kang, Ying Zhou, Yujing Li, Yanfei Han, Jie Xu, Weibo Niu, Ziyi Li, Shiying Liu, **Hao Feng**, Wen Huang, Ranhui Duan, Tianmin Xu, Nisha Raj, Feiran Zhang, Juan Dou, Chongchong Xu, Hao Wu, Gary J Bassell, Stephen T Warren, Emily G Allen, Peng Jin, Zhexing Wen. A human forebrain organoid model of fragile X syndrome exhibits altered neurogenesis and highlights new treatment strategies. (2021) *Nature Neuroscience* [DOI: 10.1038/s41593-021-00913-6](https://doi.org/10.1038/s41593-021-00913-6) 
+Yunhee Kang, Ying Zhou, Yujing Li, Yanfei Han, Jie Xu, Weibo Niu, Ziyi Li, Shiying Liu, **Hao Feng**, Wen Huang, Ranhui Duan, Tianmin Xu, Nisha Raj, Feiran Zhang, Juan Dou, Chongchong Xu, Hao Wu, Gary J Bassell, Stephen T Warren, Emily G Allen, Peng Jin, Zhexing Wen. A human forebrain organoid model of fragile X syndrome exhibits altered neurogenesis and highlights new treatment strategies. (2021) [**Nature Neuroscience**](https://doi.org/10.1038/s41593-021-00913-6) 
 
 Bin Jiao, Mengli Wang, **Hao Feng**, Han Bao, Feiran Zhang, Hao Wu, Junling Wang, Beisha Tang, Peng Jin, Lu Shen. Downregulation of TOP2 modulates neurodegeneration caused by GGGGCC expanded repeats. (2021) *Human Molecular Genetics* [DOI: 10.1093/hmg/ddab079](https://doi.org/10.1093/hmg/ddab079) 
 
