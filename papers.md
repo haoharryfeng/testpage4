@@ -7,7 +7,7 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 ---
 ### Statistical Methodology Publications
 
-Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, Ming Wang, Rui Wang, Sijia He, Jeffrey Krischer, Qian Li&#42;, **Hao Feng&#42;**. *imply*: improving cell-type deconvolution accuracy using personalized reference profiles. (2024) Submitted. [bioRxiv preprint](https://doi.org/10.1101/2023.09.27.559579)
+Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, Ming Wang, Rui Wang, Sijia He, Jeffrey Krischer, Qian Li&#42;, **Hao Feng&#42;**. *imply*: improving cell-type deconvolution accuracy using personalized reference profiles. (2023+) Submitted. [bioRxiv preprint](https://doi.org/10.1101/2023.09.27.559579)
 
 Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia Zhu, William S. Bush, Liangliang Zhang, Xiaofeng Zhu, Fulai Jin, **Hao Feng&#42;**. *magpie*: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing. (2024). *Accepted by PLOS Computational Biology*. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556896v1).
 
