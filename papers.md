@@ -9,7 +9,7 @@ For the most up-to-date publications, please see my [Google Scholar](https://sch
 
 Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, Ming Wang, Rui Wang, Sijia He, Jeffrey Krischer, Qian Li&#42;, **Hao Feng&#42;**. *imply*: improving cell-type deconvolution accuracy using personalized reference profiles. (2023+) Submitted. [bioRxiv preprint](https://doi.org/10.1101/2023.09.27.559579)
 
-Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia Zhu, William S. Bush, Liangliang Zhang, Xiaofeng Zhu, Fulai Jin, **Hao Feng&#42;**. *magpie*: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing. (2024). *Accepted by PLOS Computational Biology*. [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.09.08.556896v1).
+Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia Zhu, William S. Bush, Liangliang Zhang, Xiaofeng Zhu, Fulai Jin, **Hao Feng&#42;**. *magpie*: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing. (2024). [**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011875).
 
 **Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2023). [**Genome Biology**](https://doi.org/10.1186/s13059-023-03014-8).
 
