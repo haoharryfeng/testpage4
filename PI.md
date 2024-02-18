@@ -27,7 +27,7 @@ description: Hao Feng's website in Statistical Bioinformatics
             <a href="https://case.edu/medicine/">School of Medicine</a><br/>
             <a href="https://case.edu/">Case Western Reserve University</a><br/>
             10900 Euclid Avenue<br/>
-            SOM / Room G82T<br/>
+            SOM / Robbins E-208<br/>
             Cleveland, OH 44106<br/>
             USA<br/><br/>
 

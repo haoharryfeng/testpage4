@@ -3,7 +3,7 @@ layout: page
 title: Lab News
 ---
 ### 2024
-- (02/08/2024) Daoyu Duan's co-first-author paper *magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing* has been accepted for publication on PLOS Computational Biology. Congratulations Daoyu and great team-science work again with Dr. Zhenxing Guo from The Chinese University of Hong Kong-Shenzhen!
+- (02/08/2024) Daoyu Duan's co-first-author paper *magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing* has been accepted for publication on [**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011875). Congratulations Daoyu and great team-science work again with Dr. Zhenxing Guo from The Chinese University of Hong Kong-Shenzhen!
 
 ### 2023
 - (11/16/2023) Dr. Hao Feng was invited to give a presentation at [Wayne State University, Center for Urban Responses to Environmental Stressors (CURES)](https://cures.wayne.edu/) on signal deconvolution and cell-type-specific analysis using -omics data. 
