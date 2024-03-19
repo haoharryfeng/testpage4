@@ -12,6 +12,8 @@ title: PQHS 471 Machine Learning and Data Mining (Spring 2024)
 - Lecture 6 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_6_basic_class.pdf)
 - Lecture 7 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_7_reg.pdf)
 - Lecture 8 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_8_CV_boots.pdf)
+- Lecture 9 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_9_tree.pdf)
+
 
 
 <!--
