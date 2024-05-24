@@ -3,6 +3,7 @@ layout: page
 title: Lab News
 ---
 ### 2024
+- (04/29/2024) Leslie (Guanqun) Meng's first-author paper *imply: improving cell-type deconvolution accuracy using personalized reference profiles* has been accepted for publication on [**Genome Medicine**](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01338-z). Congratulations Leslie and great team work for everyone!
 - (03/23/2024) Dr. Hao Feng was invited to give a presentation at the [MidSouth Computational Biology and Bioinformatics Society (MCBIOS)](https://2024.mcbios.com/) on signal deconvolution and cell-type-specific analysis using -omics data. 
 - (03/13/2024) Dr. Hao Feng was invited to give a presentation at the [BERD seminar at the Center for Clinical & Translational Sciences (CCTS) at UTHealth](https://www.uth.edu/ccts/services/berd) on signal deconvolution and cell-type-specific analysis using -omics data. 
 - (02/08/2024) Daoyu Duan's co-first-author paper *magpie: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing* has been accepted for publication on [**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011875). Congratulations Daoyu and great team-science work again with Dr. Zhenxing Guo from The Chinese University of Hong Kong-Shenzhen!

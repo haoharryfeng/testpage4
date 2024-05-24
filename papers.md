@@ -40,13 +40,13 @@ Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi
 
 ---
 ### Team Science Publications
-Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2023) *Submitted*.   
+Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2024+) *Submitted*.   
 
-Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2023) *Submitted*.
+Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2024+) *Submitted*.
 
-Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Lee M Ellis, Jordan Winter, Stephen E Moss, John Greenwood, Rui Wang. LRG1 is a novel HER3 ligand to promote growth in colorectal cancer. (2023) *Submitted*.
+Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Lee M Ellis, Jordan Winter, Stephen E Moss, John Greenwood, Rui Wang. LRG1 is a novel HER3 ligand to promote growth in colorectal cancer. (2024+) *Submitted*.
 
-Daxuan Deng, Vern M. Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust Integration of Secondary Data Information into Main Outcome Analysis in the Presence of Missing Data. (2023) *Submitted*.
+Daxuan Deng, Vernon M Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust integration of secondary outcomes information into primary outcome analysis in the presence of missing data. (2024). [**Statistical Methods in Medical Research**](https://journals.sagepub.com/doi/10.1177/09622802241254195).  
 
 Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023). [**Acta Neuropathologica Communications**](https://doi.org/10.1186/s40478-023-01552-7).
 
