@@ -23,18 +23,18 @@ description: Hao Feng's website in Statistical Bioinformatics
     
         <div class="span5">
             Hao Harry Feng (冯浩)<br/>
-            <a href="https://case.edu/medicine/pqhs/">Department of Population &amp; Quantitative Health Sciences</a><br/>
-            <a href="https://case.edu/medicine/">School of Medicine</a><br/>
-            <a href="https://case.edu/">Case Western Reserve University</a><br/>
+            Department of Population &amp; Quantitative Health Sciences<br/>
+            School of Medicine<br/>
+            Case Western Reserve University<br/>
             10900 Euclid Avenue<br/>
             SOM / Robbins E-208<br/>
             Cleveland, OH 44106<br/>
-            USA<br/><br/>
+            U.S.A.<br/><br/>
 
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
              <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/hao-harry-feng/">My official webpage at CWRU</a><br/>
-      
+    [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)](Feng_cv.pdf)<br/> 
         </div>
        
         </div>
