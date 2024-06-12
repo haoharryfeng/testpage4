@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-For the most up-to-date publications, please see my [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
+My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
 
 ---
 ### Statistical Methodology Publications
@@ -11,23 +11,23 @@ Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, 
 
 Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia Zhu, William S. Bush, Liangliang Zhang, Xiaofeng Zhu, Fulai Jin, **Hao Feng&#42;**. *magpie*: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing. (2024). [**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011875).
 
-**Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2023). [**Genome Biology**](https://doi.org/10.1186/s13059-023-03014-8).
+**Hao Feng&#42;**, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, Ziyi Li, Jeffery Krischer, Qian Li&#42;. ISLET: individual-specific reference panel recovery improves cell-type-specific inference. (2023). [**Genome Biology**](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03014-8).
 
-Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of epitranscriptome-wide N6-methyladenosine differential analysis methods. (2023). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bbad139). 
+Daoyu Duan, Wen Tang, Runshu Wang, Zhenxing Guo&#42;, **Hao Feng&#42;**. Evaluation of epitranscriptome-wide N6-methyladenosine differential analysis methods. (2023). [**Briefings in Bioinformatics**](https://academic.oup.com/bib/article/24/3/bbad139/7111718). 
 
-Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2023). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bbac516).  
+Guanqun Meng, Wen Tang, Emina Huang, Ziyi Li, **Hao Feng&#42;**. A comprehensive assessment of cell type-specific differential expression methods in bulk data. (2023). [**Briefings in Bioinformatics**](https://academic.oup.com/bib/article/24/1/bbac516/6874513).  
 
-Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022). [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btac108). 
+Daoyu Duan, Sijia He, Emina Huang, Ziyi Li&#42;, **Hao Feng&#42;**. NeuCA web server: a neural network-based cell annotation tool with web-app and GUI. (2022). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/38/8/2361/6530279). 
 
-Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022). [**Scientific Reports**](https://doi.org/10.1038/s41598-021-04473-4). 
+Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive cell label assignment using single cell RNA-seq data. (2022). [**Scientific Reports**](https://www.nature.com/articles/s41598-021-04473-4). 
 
-**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. (2019). [**Quantitative Biology**](https://doi.org/10.1007/s40484-019-0183-8). 
+**Hao Feng**, Hao Wu. Differential methylation analysis for bisulfite sequencing using DSS. (2019). [**Quantitative Biology**](https://onlinelibrary.wiley.com/doi/10.1007/s40484-019-0183-8). 
 
-**Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018). [**Briefings in Bioinformatics**](https://doi.org/10.1093/bib/bby029). 
+**Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018). [**Briefings in Bioinformatics**](https://academic.oup.com/bib/article/20/2/585/4973009). 
 
-Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017). [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btx303). 
+Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/33/17/2651/3796398). 
 
-**Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014). [**Nucleic Acids Research**](https://doi.org/10.1093/nar/gku154). 
+**Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014). [**Nucleic Acids Research**](https://academic.oup.com/nar/article/42/8/e69/1074350). 
 
 
 &dagger; = co-first authorship; these authors contributed equally   
@@ -54,7 +54,7 @@ Moeez Rathore, Wei Zhang, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omi
 
 Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan Pillai, Stephen Rao, **Hao Feng**, Yadi Zhou, Feixiong Cheng, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2022). [**The Journal of Immunology**](https://doi.org/10.4049/jimmunol.2100771). 
 
-Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan A Pillai, Stephen M Rao, **Hao Feng**, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Peripheral sTREM2-Related Inflammatory Activity Alterations in Early-Stage Alzheimer’s Disease. (2021). [**Alzheimer's & Dementia**](https://doi.org/10.1002/alz.053211). 
+Grace E Weber, Maria Khrestian, Elizabeth D Tuason, Yvonne Shao, Jagan A Pillai, Stephen M Rao, **Hao Feng**, Tara M DeSilva, Shaun Stauffer, James B Leverenz, Lynn M Bekris. Older adults with Alzheimer’s disease exhibit an altered relationship between plasma sTREM2 and inflammatory markers. (2021). [**Alzheimer's & Dementia**](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.053211). 
 
 Yunhee Kang, Ying Zhou, Yujing Li, Yanfei Han, Jie Xu, Weibo Niu, Ziyi Li, Shiying Liu, **Hao Feng**, Wen Huang, Ranhui Duan, Tianmin Xu, Nisha Raj, Feiran Zhang, Juan Dou, Chongchong Xu, Hao Wu, Gary J Bassell, Stephen T Warren, Emily G Allen, Peng Jin, Zhexing Wen. A human forebrain organoid model of fragile X syndrome exhibits altered neurogenesis and highlights new treatment strategies. (2021). [**Nature Neuroscience**](https://doi.org/10.1038/s41593-021-00913-6). 
 
