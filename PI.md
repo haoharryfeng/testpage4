@@ -34,7 +34,7 @@ description: Hao Feng's website in Statistical Bioinformatics
             <div id="hide_email">
             Email: <code>hxf155@case.edu</code><br/>
              <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/hao-harry-feng/">My official webpage at CWRU</a><br/>
-    [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)](Feng_cv.pdf)<br/> 
+
         </div>
        
         </div>
@@ -61,6 +61,7 @@ identify Differentially Methylated Regions (DMR) in Bisulfite-sequencing (BS-seq
 [InfiniumPurify](https://cran.rstudio.com/web/packages/InfiniumPurify/index.html) to identify cancer subtypes using DNA methylation microarray data, [cfDNAmethy](https://github.com/haoharryfeng/cfDNAmethy) to deconvolute cell-free DNA methylation signal in plasma using liquid biopsy. I collaborate closely with physicians and wet-lab researchers on various 
 projects including cancer, virus, trauma, epidemiology and neurodegenerative disease studies. 
 
+[Curriculum Vitae ![CV as pdf](./assets/pics/pdf-icon.png)](Feng_cv.pdf)<br/> 
 <!-- [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)](Feng_cv.pdf)<br/> -->
 [orcid](https://orcid.org): [0000-0003-2243-9949](https://orcid.org/0000-0003-2243-9949)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
