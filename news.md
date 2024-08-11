@@ -3,6 +3,9 @@ layout: page
 title: Lab News
 ---
 ### 2024
+- (06/28/2024) Dr. Feng was invited to give a presentation at the International Chinese Statistical Association (ICSA) 2024 conference, on personalized signal deconvolution and cell-type-specific analysis.
+- (05/02/2024) Dr. Feng gave a topic-contributed talk at [STATGEN 2024](https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics), on personalized signal deconvolution and cell-type-specific analysis.
+- (05/02/2024) Leslie (Guanqun) Meng's gave an invited presentation at [STATGEN 2024](https://www.publichealth.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics), the inaugural conference of the American Statistical Association (ASA) Section on Statistics in Genomics and Genetics (SSGG). Way to go Leslie!
 - (04/29/2024) Leslie (Guanqun) Meng's first-author paper *imply: improving cell-type deconvolution accuracy using personalized reference profiles* has been accepted for publication on [**Genome Medicine**](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01338-z). Congratulations Leslie and great team work for everyone!
 - (03/23/2024) Dr. Hao Feng was invited to give a presentation at the [MidSouth Computational Biology and Bioinformatics Society (MCBIOS)](https://2024.mcbios.com/) on signal deconvolution and cell-type-specific analysis using -omics data. 
 - (03/13/2024) Dr. Hao Feng was invited to give a presentation at the [BERD seminar at the Center for Clinical & Translational Sciences (CCTS) at UTHealth](https://www.uth.edu/ccts/services/berd) on signal deconvolution and cell-type-specific analysis using -omics data. 
