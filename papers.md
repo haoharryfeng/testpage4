@@ -6,6 +6,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en
 
 ---
 ### Statistical Methodology Publications
+Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024, accepted). **Bioinformatics**. 
 
 Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, Ming Wang, Rui Wang, Sijia He, Jeffrey Krischer, Qian Li&#42;, **Hao Feng&#42;**. *imply*: improving cell-type deconvolution accuracy using personalized reference profiles. (2024). [**Genome Medicine**](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01338-z).
 
