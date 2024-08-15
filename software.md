@@ -14,6 +14,7 @@ or [GitHub](https://github.com/haoharryfeng).
   <img src="./assets/pics/NeuCA_hex.png" width="125" height="144" />
  	<img src="./assets/pics/ISLET_hex.png" width="125" height="144" />
  	 	<img src="./assets/pics/magpie_hex.png" width="125" height="144" />
+ 	 	 	 	<img src="./assets/pics/cypress_hex.png" width="125" height="144" />
 <!--   		<img src="/img3.png" width="100" /> 	-->
 </p>
 
@@ -41,7 +42,12 @@ or [GitHub](https://github.com/haoharryfeng).
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/magpie/">Usage Stats</a> 
   <img src="https://bioconductor.org/shields/years-in-bioc/magpie.svg"><br/>
   **magpie** (**m**6**A** **g**enome-wide **p**ower **i**nf**e**rence) can perform statistical power analysis for the RNA methylation (m6A MeRIP-seq) study. It evaluates FDR, FDC, power, and precision under various study design parameters, including sample size, sequencing depth, and testing method. It can also produce power evaluation results into .xlsx files and generate power figures. Available on [Bioconductor](https://www.bioconductor.org/packages/magpie/).
-   				         
+
+- <a  style="color: white;" class="btn btn-primary" href="https://www.bioconductor.org/packages/cypress/">cypress</a>
+  <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/cypress/">Usage Stats</a> 
+  <img src="https://bioconductor.org/shields/years-in-bioc/cypress.svg"><br/>
+  **cypress**  pending publication soon.
+           
 - <a  style="color: white;" class="btn btn-primary" href="https://CRAN.R-project.org/package=InfiniumPurify">InfiniumPurify</a><br/> 
   R CRAN package for the estimation and adjustment for tumor purity in cancer methylation data analysis, available on [R CRAN](https://CRAN.R-project.org/package=InfiniumPurify).
 		    
