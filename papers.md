@@ -8,6 +8,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en
 ### Statistical Methodology Publications
 Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024, accepted). **Bioinformatics**. 
 
+Daxuan Deng, Vernon M Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust integration of secondary outcomes information into primary outcome analysis in the presence of missing data. (2024). [**Statistical Methods in Medical Research**](https://journals.sagepub.com/doi/10.1177/09622802241254195).  
+
 Guanqun Meng, Yue Pan, Wen Tang, Lijun Zhang, Ying Cui, Fredrick R. Schumacher, Ming Wang, Rui Wang, Sijia He, Jeffrey Krischer, Qian Li&#42;, **Hao Feng&#42;**. *imply*: improving cell-type deconvolution accuracy using personalized reference profiles. (2024). [**Genome Medicine**](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01338-z).
 
 Zhenxing Guo<sup>&dagger;</sup>, Daoyu Duan<sup>&dagger;</sup>, Wen Tang, Julia Zhu, William S. Bush, Liangliang Zhang, Xiaofeng Zhu, Fulai Jin, **Hao Feng&#42;**. *magpie*: a power evaluation method for differential RNA methylation analysis in N6-methyladenosine sequencing. (2024). [**PLOS Computational Biology**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011875).
@@ -26,7 +28,11 @@ Ziyi Li&#42;, **Hao Feng&#42;**. A neural network-based method for exhaustive ce
 
 **Hao Feng**, Peng Jin, Hao Wu. Disease prediction by cell-free DNA methylation. (2018). [**Briefings in Bioinformatics**](https://academic.oup.com/bib/article/20/2/585/4973009). 
 
+Yufang Qin, Hao Feng, Ming Chen, Hao Wu, Xiaoqi Zheng. InfiniumPurify: An R package for estimating and accounting for tumor purity in cancer methylation research. (2018). [**Genes &amp; Diseases**](https://doi.org/10.1016/j.gendis.2018.02.003). 
+
 Weiwei Zhang<sup>&dagger;</sup>, **Hao Feng**<sup>&dagger;</sup>, Hao Wu, Xiaoqi Zheng. Accounting for tumor purity improves cancer subtype classification from DNA methylation data. (2017). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/33/17/2651/3796398). 
+
+Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, Peng Jin, Karen N. Conneely. Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. (2015). [**Nucleic Acids Research**](https://doi.org/10.1093/nar/gkv715). 
 
 **Hao Feng**, Karen N. Conneely, Hao Wu. A Bayesian hierarchical model to detect differentially methylated loci from single nucleotide resolution sequencing data. (2014). [**Nucleic Acids Research**](https://academic.oup.com/nar/article/42/8/e69/1074350). 
 
@@ -47,8 +53,6 @@ Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden
 
 Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Lee M Ellis, Jordan Winter, Stephen E Moss, John Greenwood, Rui Wang. LRG1 is a novel HER3 ligand to promote growth in colorectal cancer. (2024+) *Submitted*.
 
-Daxuan Deng, Vernon M Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust integration of secondary outcomes information into primary outcome analysis in the presence of missing data. (2024). [**Statistical Methods in Medical Research**](https://journals.sagepub.com/doi/10.1177/09622802241254195).  
-
 Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023). [**Acta Neuropathologica Communications**](https://doi.org/10.1186/s40478-023-01552-7).
 
 Moeez Rathore, Wei Zhang, Michel'le Wright, Mehrdad Zarei, Ali Vaziri-Gohar, Omid Hajihassani, Ata Abbas, **Hao Feng**, Jonathan Brody, Sandy D. Markowit, Jordan Winter, Rui Wang. Liver Endothelium Microenvironment Promotes HER3-mediated Cell Growth in Pancreatic Ductal Adenocarcinoma. (2022).  [**Journal of Cancer Science and Clinical Therapeutics**](https://doi.org/10.26502%2Fjcsct.5079182). 
@@ -65,15 +69,11 @@ Samaneh K Sarvestani, Steven Signs, Bo Hu, Yunku Yeu, **Hao Feng**, Ying Ni, Dav
 
 E. M. Kennedy, D. R. Powell, Z. Li, J. S. K. Bell, B. G. Barwick, **Hao Feng**, M. R. McCrary, B. Dwivedi, J. Kowalski, W. S. Dynan, K. N. Conneely, P. M. Vertino.  Galactic Cosmic Radiation Induces Persistent Epigenome Alterations Relevant to Human Lung Cancer. (2018). [**Scientific Reports**](https://doi.org/10.1038/s41598-018-24755-8). 
 
-Yufang Qin, Hao Feng, Ming Chen, Hao Wu, Xiaoqi Zheng. InfiniumPurify: An R package for estimating and accounting for tumor purity in cancer methylation research. (2018). [**Genes &amp; Diseases**](https://doi.org/10.1016/j.gendis.2018.02.003). 
-
 Lynn M Almli, Adriana Lori, Jacquelyn L Meyers, Jaemin Shin, Negar Fani, Adam X Maihofer, Caroline M Nievergelt, Alicia K Smith, Kristina B Mercer, Kimberly Kerley, Jennifer M Leveille, **Hao Feng**, Duna Abu‐Amara, Janine D Flory, Rachel Yehuda, Charles R Marmar, Dewleen G Baker, Bekh Bradley, Karestan C Koenen, Karen N Conneely, Kerry J Ressler. Problematic alcohol use associates with sodium channel and clathrin linker 1 (SCLT1) in trauma‐exposed populations. (2017). [**Addiction Biology**](https://doi.org/10.1111/adb.12569). 
 
 Feiran Zhang, Christy Hammack, Sarah C Ogden, Yichen Cheng, Emily M Lee, Zhexing Wen, Xuyu Qian, Ha Nam Nguyen, Yujing Li, Bing Yao, Miao Xu, Tianlei Xu, Li Chen, Zhiqin Wang, **Hao Feng**, Wei-Kai Huang, Ki-jun Yoon, Chao Shan, Luoxiu Huang, Zhaohui Qin, Kimberly M Christian, Pei-Yong Shi, Mingjiang Xu, Menghang Xia, Wei Zheng, Hao Wu, Hongjun Song, Hengli Tang, Guo-Li Ming, Peng Jin. Molecular signatures associated with ZIKV exposure in human cortical neural progenitors. (2016). [**Nucleic Acids Research**](https://doi.org/10.1093/nar/gkw765). 
 
 E Kennedy, DR Powell, Z Li, JSK Bell, **Hao Feng**, W Dynan, B Dwivedi, J Kowalski, KN Conneely, PM Vertino. Space radiation exposure induces stable epigenome alterations relevant to human lung cancer. (2016). [**Cancer Research**](https://doi.org/10.1158/1538-7445.CHROMEPI15-B08).
-
-Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, Peng Jin, Karen N. Conneely. Detection of differentially methylated regions from whole-genome bisulfite sequencing data without replicates. (2015). [**Nucleic Acids Research**](https://doi.org/10.1093/nar/gkv715). 
 
 Lynn M Almli, Richard Duncan, **Hao Feng**, Debashis Ghosh, Elisabeth B Binder, Bekh Bradley, Kerry J Ressler, Karen N Conneely, Michael P Epstein. Correcting systematic inflation in genetic association tests that consider interaction effects: Application to a genome-wide association study of posttraumatic stress disorder. (2014). [**JAMA Psychiatry**](https://doi.org/10.1001/jamapsychiatry.2014.1339). 
 
