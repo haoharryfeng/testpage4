@@ -6,7 +6,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en
 
 ---
 ### Statistical Methodology Publications
-Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024, accepted). **Bioinformatics**. 
+Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae511/7735301).
 
 Daxuan Deng, Vernon M Chinchilli, **Hao Feng**, Chixiang Chen, Ming Wang. Robust integration of secondary outcomes information into primary outcome analysis in the presence of missing data. (2024). [**Statistical Methods in Medical Research**](https://journals.sagepub.com/doi/10.1177/09622802241254195).  
 
