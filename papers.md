@@ -2,9 +2,9 @@
 layout: page
 title: Publications
 ---
-My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>
+<!-- My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>  -->
 
----
+<!--  ---  -->
 ### Statistical Methodology Publications
 Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae511/7735301).
 
