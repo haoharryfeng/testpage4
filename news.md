@@ -3,7 +3,8 @@ layout: page
 title: Lab News
 ---
 ### 2024
-- (08/09/2024) Our paper *cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment* has been accepted for publication on Bioinformatics(URL pending). Shilin Yu and Leslie Meng are joint-first-authors. Congratulations everyone and great team work!
+- (09/01/2024) We are extremely honored and humbled to receive the **NIH/NIGMS Maximizing Investigators' Research Award** (**MIRA**, **1R35GM154862**). This five-year award will support Dr. Feng’s research to develop novel statistical methods and bioinformatics tools to computationally dissect genomics data.
+- (08/09/2024) Our paper *cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment* has been accepted for publication on [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/40/8/btae511/7735301). Shilin Yu and Leslie Meng are joint-first-authors. Congratulations everyone and great team work!
 - (08/07/2024) Dr. Feng gave a topic-contributed talk at the [2024 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2024/), to introduce personalized signal deconvolution and cell-type-specific analysis.
 - (07/01/2024) Dr. Feng was invited to give a presentation at the International Statistical Genetics and Genomics (ISGG) meeting, to introduce personalized signal deconvolution and cell-type-specific analysis.
 - (06/28/2024) Dr. Feng was invited to give a presentation at the International Chinese Statistical Association (ICSA) 2024 conference, on personalized signal deconvolution and cell-type-specific analysis.
