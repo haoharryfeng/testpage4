@@ -36,8 +36,8 @@ title: People
 <div class="container">
 
   <div class="row-fluid">
-     <div class="span2">
-        <a href="./assets/pics/WT2.jpeg">
+     <div class="span2">       
+     
             <img src="./assets/pics/WT2.jpeg"
                   title="Wen Tang" alt="Wen Tang"/></a>
         	</div>
