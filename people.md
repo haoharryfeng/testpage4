@@ -31,6 +31,33 @@ title: People
 
 
 
+### Biostatistician
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/WT2.jpeg">
+            <img src="./assets/pics/WT2.jpeg"
+                  title="Wen Tang" alt="Wen Tang"/></a>
+        	</div>
+
+    
+
+  
+    
+        <div class="span5">
+            <b>Wen Tang</b><br/>
+            Biostatistician Research Associate<br/><br/>
+            
+    <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
+       
+        </div>
+    </div>
+</div>
+
+
+---
 ### PhD Students
 
 
@@ -81,32 +108,34 @@ title: People
     </div>
 </div>
 
+
 ---
 
-### Biostatistician
+
+### Undergraduate Student
+
 
 <div class="container">
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/WT2.jpeg">
-            <img src="./assets/pics/WT2.jpeg"
-                  title="Wen Tang" alt="Wen Tang"/></a>
+        <a href="./assets/pics/DD2.jpeg">
+            <img src="./assets/pics/DO1.jpg"
+                  title="Dounia Ouzidane" alt="Dounia Ouzidane"/></a>
         	</div>
 
     
-
-  
-    
         <div class="span5">
-            <b>Wen Tang</b><br/>
-            Biostatistician Research Associate<br/><br/>
-            
-    <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
+            <b>Dounia Ouzidane</b><br/>
+            Undergraduate student in statistics<br/><br/>
+         <a href="http://www.linkedin.com/in/douniaouzidane">LinkedIn</a><br/>
+    
+   
        
         </div>
     </div>
 </div>
+
 
 ---
 
