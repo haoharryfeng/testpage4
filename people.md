@@ -119,7 +119,7 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/DD2.jpeg">
+        <a href="./assets/pics/DO1.jpg">
             <img src="./assets/pics/DO1.jpg"
                   title="Dounia Ouzidane" alt="Dounia Ouzidane"/></a>
         	</div>
