@@ -65,9 +65,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/DD2.jpeg">
             <img src="./assets/pics/DD2.jpeg"
-                  title="Daoyu Duan" alt="Daoyu Duan"/></a>
+                  title="Daoyu Duan" alt="Daoyu Duan"/>
         	</div>
 
     
@@ -91,9 +90,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/LM2.jpeg">
             <img src="./assets/pics/LM2.jpeg"
-                  title="Leslie Meng" alt="Leslie Meng"/></a>
+                  title="Leslie Meng" alt="Leslie Meng"/>
         	</div>
 
     
@@ -119,9 +117,9 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/DO1.jpg">
+
             <img src="./assets/pics/DO1.jpg"
-                  title="Dounia Ouzidane" alt="Dounia Ouzidane"/></a>
+                  title="Dounia Ouzidane" alt="Dounia Ouzidane"/>
         	</div>
 
     
