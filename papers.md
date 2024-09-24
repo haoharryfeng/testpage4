@@ -5,7 +5,7 @@ title: Publications
 <!-- My [Google Scholar](https://scholar.google.com/citations?user=YGFvJjwAAAAJ&hl=en)<br/>  -->
 
 <!--  ---  -->
-### Statistical Methodology Publications
+### Biostatistics Methodology Publications
 Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae511/7735301).
 
 Kaichen Xu, Yan Lu, Suyang Hou, Kainan Liu, Yihang Du, Mengqian Huang, **Hao Feng**, Hao Wu, Xiaobo Sun. Detecting anomalous anatomic regions in spatial transcriptomics with STANDS. (2024). [**Nature Communications**](https://www.nature.com/articles/s41467-024-52445-9).
