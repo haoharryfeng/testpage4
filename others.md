@@ -22,6 +22,8 @@ title: Tips and others
 - Teaming for Excellence: [challenges and collaboration in the world of reproductive clinical and translational research ![CV as pdf](./assets/pics/pdf-icon.png)](teaming_for_exce.pdf)
 - A Guide to Machine Learning for Biologists: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NRev21.pdf)
 - Bioinformatics history: [A brief history of bioinformatics](https://doi.org/10.1093/bib/bby063)
+- Handbook of Biological Statistics: [Handbook of Biological Statistics](https://www.biostathandbook.com/)
+- A biologist's guide to statistical thinking and analysis: [A biologist's guide to statistical thinking and analysis](https://www.ncbi.nlm.nih.gov/books/NBK153593/)
 
 
 
