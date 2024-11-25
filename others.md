@@ -30,9 +30,8 @@ title: Tips and others
 
 
 
-
-<!-- ### JSM 2022 Talk 
-- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NeuCA_JSM.pdf) -->
+ ### Neurodegenerative T32 workshop 
+- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](pval.pdf) 
 
 <!-- ### UofSC Stat 2022 Talk 
 - LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](dissect.pdf)  -->
