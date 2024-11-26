@@ -51,9 +51,11 @@ Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, 
 ### Team Science Publications
 Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2024+) *Submitted*.   
 
-Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2024+) *Submitted*.
+Yiqian Zhang, Jonas Schluter, Lijun Zhang, Xuan Cao, Robert R. Jenq, **Hao Feng**, Jonathan Haines, Liangliang Zhang. Review and revamp of compositional data transformation: A new framework combining proportion conversion and contrast transformation. (2024) [**Computational and Structural Biotechnology Journal**](https://www.sciencedirect.com/science/article/pii/S200103702400374X).
 
-Moeez Rathore, Michel’le Wright, Wei Huang, Daniel Martin, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Lee M Ellis, Jordan Winter, Stephen E Moss, John Greenwood, Rui Wang. LRG1 is a novel HER3 ligand to promote growth in colorectal cancer. (2024+) *Submitted*.
+Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Steven J Korzeniewski, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2024) [**Birth Defects Research**](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdr2.2409).
+
+Moeez Rathore, Kimberly Curry, Wei Huang, Daniel Martin, Jiyeon Baek, Derek Taylor, Masaru Miyagi, Wen Tang, **Hao Feng**, Yamu Li, Zhenghe Wang, Hallie Graor, Joseph Willis, Elizabeth Bryson, Christina S Boutros, Omkar Desai, Bianca Islam, Lee M Elis, Stephen E Moss, Jordan M Winter, John Greenwood, Rui Wang. Leucine-Rich Alpha-2-Glycoprotein 1 Promotes Metastatic Colorectal Cancer Growth Through Human Epidermal Growth Factor Receptor 3 Signaling. (2024) [**Gastroenterology**](https://www.sciencedirect.com/science/article/pii/S0016508524055665).
 
 Wenzhang Wang, Fanpeng Zhao, Yubing Lu, Sandra L. Siedlak, Hisashi Fujioka, **Hao Feng**, George Perry, Xiongwei Zhu. Damaged Mitochondria Coincide with Presynaptic Vesicle Loss and Abnormalities in Alzheimer’s Disease Brain. (2023). [**Acta Neuropathologica Communications**](https://doi.org/10.1186/s40478-023-01552-7).
 
