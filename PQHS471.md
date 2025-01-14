@@ -1,10 +1,12 @@
 ---
 layout: page
-title: PQHS 471 Machine Learning and Data Mining (Spring 2024)
+title: PQHS 471 Machine Learning and Data Mining (Spring 2025)
 ---
 
 
 - Lecture 1 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_1_intro.pdf)
+
+<!--
 - Lecture 2 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_2_Unsup.pdf)
 - Lecture 3 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_3_clust.pdf)
 - Lecture 4 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_4_fim.pdf)
@@ -18,7 +20,7 @@ title: PQHS 471 Machine Learning and Data Mining (Spring 2024)
 - Lecture 12 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_12_utils.pdf)
 - Lecture 13 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_13_gsp.pdf)
 
-<!--
+
 
 
 
