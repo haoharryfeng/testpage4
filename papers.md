@@ -6,6 +6,8 @@ title: Publications
 
 <!--  ---  -->
 ### Biostatistics Methodology Publications
+Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2025). [**Biometrics**](https://academic.oup.com/biometrics/article-abstract/81/1/ujae168/7965377).
+
 Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae511/7735301).
 
 Kaichen Xu, Yan Lu, Suyang Hou, Kainan Liu, Yihang Du, Mengqian Huang, **Hao Feng**, Hao Wu, Xiaobo Sun. Detecting anomalous anatomic regions in spatial transcriptomics with STANDS. (2024). [**Nature Communications**](https://www.nature.com/articles/s41467-024-52445-9).
@@ -49,8 +51,6 @@ Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, 
 
 ---
 ### Team Science Publications
-Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2024+) *Submitted*.   
-
 Yiqian Zhang, Jonas Schluter, Lijun Zhang, Xuan Cao, Robert R. Jenq, **Hao Feng**, Jonathan Haines, Liangliang Zhang. Review and revamp of compositional data transformation: A new framework combining proportion conversion and contrast transformation. (2024) [**Computational and Structural Biotechnology Journal**](https://www.sciencedirect.com/science/article/pii/S200103702400374X).
 
 Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Steven J Korzeniewski, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2024) [**Birth Defects Research**](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdr2.2409).
