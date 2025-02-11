@@ -9,12 +9,11 @@ title: PQHS 471 Machine Learning and Data Mining (Spring 2025)
 - Lecture 3 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_3_clust.pdf)
 - Lecture 4 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_4_fim.pdf)
 - Lecture 5 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_5_fund_sup.pdf)
-
+- Lecture 6 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_6_basic_class.pdf)
 
 
 
 <!--
-- Lecture 6 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_6_basic_class.pdf)
 - Lecture 7 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_7_reg.pdf)
 - Lecture 8 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_8_CV_boots.pdf)
 - Lecture 9 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_9_tree.pdf)
