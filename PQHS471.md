@@ -16,7 +16,7 @@ title: PQHS 471 Machine Learning and Data Mining (Spring 2025)
 - Lecture 10 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_10_SVM.pdf)
 - Lecture 11 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_11_NN_DL.pdf)
 - Lecture 12 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_12_utils.pdf)
-
+- Lecture 13 [link ![Lec1](./assets/pics/pdf-icon.png)](./PQHS471_mat/Lecture_13_gsp.pdf)
 
 
 
