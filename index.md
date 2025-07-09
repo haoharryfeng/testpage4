@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Statistical Bioinformatics Group at CWRU
+title: Welcome to Statistical Bioinformatics Group at UTHealth Biostatistics
 tagline: 
 description: Hao Feng's website in Statistical Bioinformatics
 ---
@@ -10,7 +10,7 @@ description: Hao Feng's website in Statistical Bioinformatics
 
 
 <p align="center">
-  <img src="./assets/pics/CWRUcampus.jpg" alt="CWRUcampus" width="950"/>
+  <img src="./assets/pics/UTH.png" alt="UTH" width="950"/>
 </p>
 
 
