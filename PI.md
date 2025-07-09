@@ -22,18 +22,18 @@ description: Hao Feng's website in Statistical Bioinformatics
   
     
         <div class="span5">
-            Hao Harry Feng (冯浩)<br/>
-            Department of Population &amp; Quantitative Health Sciences<br/>
-            School of Medicine<br/>
-            Case Western Reserve University<br/>
-            10900 Euclid Avenue<br/>
-            SOM / Robbins E-208<br/>
-            Cleveland, OH 44106<br/>
+            Hao Feng (冯浩)<br/>
+            Department of Biostatistics &amp; Data Science<br/>
+            School of Public Health<br/>
+            The University of Texas Health Science Center at Houston<br/>
+            1200 Pressler Street<br/>
+            RAS W-848<br/>
+            Houston, TX 77030<br/>
             U.S.A.<br/><br/>
 
             <div id="hide_email">
-            Email: <code>hxf155@case.edu</code><br/>
-             <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/hao-harry-feng/">My official webpage at CWRU</a><br/>
+            Email: <code>hao.feng@uth.tmc.edu</code><br/>
+             <a href="https://sph.uth.edu/faculty/?fac=DdZ2W%2BscBC2yYAGtriBwgg==">My official webpage at UTHealth</a><br/>
 
         </div>
        
@@ -47,14 +47,13 @@ description: Hao Feng's website in Statistical Bioinformatics
 ### Bio
 
 
-I am is a tenure-track assistant professor in biostatistics at the 
-[Department of Population &amp; Quantitative Health Sciences](https://case.edu/medicine/pqhs/)
-at Case Western Reserve University School of Medicine and an associate member at [Case Comprehensive Cancer Center (Case CCC)](https://case.edu/cancer/).
+I am is a tenure-track associate professor at the 
+[Department of Biostatistics &amp; Data Science](https://sph.uth.edu/dept/bads/)
+at The University of Texas Health Science Center at Houston (UTHealth).
 
 I obtained my Ph.D. degree (2019) in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
 professor [Hao Wu](http://www.haowulab.org/). Before that, I received my MSPH degree (2013) in biostatistics from Emory University and my BS degree (2011)
 in biosciences from the [University of Science and Technology of China](https://en.ustc.edu.cn/). 
-
 
 I am a statistician focusing on problems in bioinformatics. Developing statistical methods for high-throughput _omics_ data is a major component of my research. I (co-)developed statistical methods [DSS](http://bioconductor.org/packages/release/bioc/html/DSS.html) to 
 identify Differentially Methylated Regions (DMR) in Bisulfite-sequencing (BS-seq) data,
