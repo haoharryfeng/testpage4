@@ -11,14 +11,14 @@ title: People
      <div class="span2">
         <a href="./assets/pics/Feng.jpg">
             <img src="./assets/pics/Feng.jpg"
-                  title="Harry Feng" alt="Harry Feng"/></a>
+                  title="Hao Feng" alt="Hao Feng"/></a>
         	</div>
 
    
     
         <div class="span5">
-            <b>Hao 'Harry' Feng</b><br/>
-			Assistant Professor<br/><br/>
+            <b>Hao Feng</b><br/>
+			Associate Professor<br/><br/>
       <a href="https://hfenglab.org/PI.html">About the PI</a><br/>
    
    
@@ -48,7 +48,7 @@ title: People
     
         <div class="span5">
             <b>Wen Tang</b><br/>
-            Biostatistician Research Associate<br/><br/>
+            Biostatistician I<br/><br/>
             
     <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
        
