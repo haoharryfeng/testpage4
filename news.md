@@ -2,6 +2,9 @@
 layout: page
 title: Lab News
 ---
+### 2025
+- (07/01/2025) **Exciting News! We have moved!** Our lab is now at the University of Texas Health Science Center at Houston (UTHealth), School of Public Health, [**Department of Biostatistics and Data Science**](https://sph.uth.edu/dept/bads/). 
+
 ### 2024
 - (09/10/2024) Dr. Hao Feng was invited to give a presentation at [The University of Illinois at Chicago Cancer Center](https://cancer.uillinois.edu/) monthly series of Biostatistics and Bioinformatics seminars, on signal deconvolution and cell-type-specific analysis using -omics data. 
 - (09/01/2024) We are extremely honored and humbled to receive the **NIH/NIGMS Maximizing Investigators' Research Award** (**MIRA**, **1R35GM154862**). This five-year award will support Dr. Feng’s research to develop novel statistical methods and bioinformatics tools to computationally dissect genomics data.
