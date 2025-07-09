@@ -2,6 +2,11 @@
 layout: page
 title: Teaching
 ---
+[PH 1910: Probability and Distribution Theory](https://hfenglab.org/PH1910.html)
+
+
+
+---------------
 
 [PQHS 471: Machine Learning and Data Mining](https://hfenglab.org/PQHS471.html)
 
@@ -16,4 +21,6 @@ title: Teaching
 
 [ENAR 2023 Tutorial](https://hfenglab.org/enar2023.html)
 
-2024 PhD students visiting [link ![Lec](./assets/pics/pdf-icon.png)](Feng.pdf)
+2024 PhD students visiting
+
+<!--  2024 PhD students visiting [link ![Lec](./assets/pics/pdf-icon.png)](Feng.pdf) -->
