@@ -60,7 +60,6 @@ title: People
 ---
 ### Postdoctoral Fellow
 
----
 
 
 <div class="container">
@@ -85,7 +84,7 @@ title: People
 
 
 ---
-
+<!--
 
 ### Undergraduate Student
 
@@ -173,10 +172,12 @@ title: People
 
 <div class="container">
             <b>Daoyu Duan</b><br/>
-            PhD student (2020-2025). First position: Regeneron <br/><br/>
+            CWRU PhD student (2020-2025). First position: Principal Biostatistician at Regeneron <br/><br/>
 
             <b>Sijia He</b><br/>
             CWRU undergraduate student (2018-2022). First position: MS Biostatistics student at University of Michigan <br/><br/>
       
-    
+            <b>Aditi Singh</b><br/>
+            Visiting Graduate Student (2021). Center for Molecular Medicine and Genetics, Wayne State University <br/><br/>
+   
 </div>
