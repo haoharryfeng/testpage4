@@ -48,8 +48,8 @@ title: People
     
         <div class="span5">
             <b>Wen Tang</b><br/>
-            Biostatistician I<br/><br/>
-            M.S. in Biostatistics, Georgetown University
+            Biostatistician I<br/>
+            M.S. in Biostatistics, Georgetown University<br/><br/>
 
     <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
        
