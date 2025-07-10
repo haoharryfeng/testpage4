@@ -58,30 +58,7 @@ title: People
 
 
 ---
-### PhD Students
-
-
-<div class="container">
-
-  <div class="row-fluid">
-     <div class="span2">
-            <img src="./assets/pics/DD2.jpeg"
-                  title="Daoyu Duan" alt="Daoyu Duan"/>
-        	</div>
-
-    
-        <div class="span5">
-            <b>Daoyu Duan</b><br/>
-            Ph.D. student in Epidemiology and Biostatistics<br/><br/>
-         <a href="https://scholar.google.com/citations?user=wEgimXkAAAAJ&hl=en">Google Scholar</a><br/>
-
-         <a href="https://www.linkedin.com/in/daoyu-duan-9b2571130/">LinkedIn</a><br/>
-    
-   
-       
-        </div>
-    </div>
-</div>
+### Postdoctoral Fellow
 
 ---
 
@@ -97,7 +74,7 @@ title: People
     
         <div class="span5">
             <b>Guanqun (Leslie) Meng</b><br/>
-            Ph.D. student in Epidemiology and Biostatistics<br/><br/>
+            Ph.D. in Epidemiology and Biostatistics, Case Western Reserve University<br/><br/>
          <a href="https://scholar.google.com/citations?user=n-294NQAAAAJ&hl=en">Google Scholar</a><br/>
 
         <a href="https://www.linkedin.com/in/lesliemeng">LinkedIn</a><br/>
