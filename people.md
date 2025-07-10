@@ -195,10 +195,11 @@ title: People
 ### Lab Alumni
 
 <div class="container">
+            <b>Daoyu Duan</b><br/>
+            PhD student (2020-2025). First position: Regeneron <br/><br/>
 
             <b>Sijia He</b><br/>
-            CWRU undergraduate student (2018-2022) <br/><br/>
-            Current position: MS Biostatistics student at University of Michigan <br/><br/>
+            CWRU undergraduate student (2018-2022). First position: MS Biostatistics student at University of Michigan <br/><br/>
       
     
 </div>
