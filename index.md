@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Statistical Bioinformatics Group at UTHealth Biostatistics
+title: Welcome to the Statistical Bioinformatics Group at UTHealth Houston
 tagline: 
 description: Hao Feng's website in Statistical Bioinformatics
 ---
