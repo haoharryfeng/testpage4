@@ -15,6 +15,9 @@ or [GitHub](https://github.com/haoharryfeng).
  	<img src="./assets/pics/ISLET_hex.png" width="125" height="144" />
  	 	<img src="./assets/pics/magpie_hex.png" width="125" height="144" />
  	 	 	 	<img src="./assets/pics/cypress_hex.png" width="125" height="144" />
+ 	 	 	 		<img src="./assets/pics/tapas.png" width="125" height="144" />
+ 	 	 	 	
+ 	 	 	 	
 <!--   		<img src="/img3.png" width="100" /> 	-->
 </p>
 
@@ -42,6 +45,9 @@ or [GitHub](https://github.com/haoharryfeng).
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/cypress/">Usage Stats</a> 
   <img src="https://bioconductor.org/shields/years-in-bioc/cypress.svg"><br/>
   **cypress**  is the first experimental design and statistical power evaluation tool in cell-type-specific Differential Expression analysis. This tool can reliably model purified cell-type-specific (CTS) profiles, cell-type compositions, biological and technical variations, offering a high-fidelity simulator for bulk RNA-seq convolution and deconvolution. cypress conducts simulation and evaluates the impact of influencing factors, to help researchers optimize experimental design and conduct power analysis. Associated publication on [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/40/8/btae511/7735301).
+
+- <a  style="color: white;" class="btn btn-primary" href="https://github.com/wxt175/tapas">tapas</a><br/> 
+  *tapas* is a method to evaluate and quantify the confidence of cell type annotation by large language models (LLMs). *tapas* integrates two components: the linguistic implications of the output text; and a data-driven method to quantify the dissimilarity between cell types. *tapas* is available on [GitHub](https://github.com/wxt175/tapas).
 
 - <a  style="color: white;" class="btn btn-primary" href="https://bioconductor.org/packages/NeuCA/">NeuCA</a>
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/NeuCA/">Usage Stats</a> 
