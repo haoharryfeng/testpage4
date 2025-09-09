@@ -15,9 +15,8 @@ or [GitHub](https://github.com/haoharryfeng).
  	<img src="./assets/pics/ISLET_hex.png" width="125" height="144" />
  	 	<img src="./assets/pics/magpie_hex.png" width="125" height="144" />
  	 	 	 	<img src="./assets/pics/cypress_hex.png" width="125" height="144" />
- 	 	 	 		<img src="./assets/pics/tapas.png" width="125" height="144" />
  	 	 	 			<img src="./assets/pics/mist.png" width="125" height="144" />
- 	 	 	 	
+ 	 	 	 	 	 		<img src="./assets/pics/tapas.png" width="125" height="144" /> 	 	
 <!--   		<img src="/img3.png" width="100" /> 	-->
 </p>
 
