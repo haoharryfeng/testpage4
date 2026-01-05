@@ -58,6 +58,8 @@ title: People
 </div>
 
 
+<!--
+
 ---
 ### Postdoctoral Fellow
 
@@ -91,6 +93,9 @@ title: People
 
 
 ---
+-->
+
+
 <!--
 
 ### Undergraduate Student
@@ -178,6 +183,9 @@ title: People
 ### Lab Alumni
 
 <div class="container">
+            <b>Guanqun (Leslie) Meng</b><br/>
+            CWRU PhD student (2020-2025). First position: CMC Statistics Manager at Novartis <br/><br/>
+
             <b>Daoyu Duan</b><br/>
             CWRU PhD student (2020-2025). First position: Principal Biostatistician at Regeneron <br/><br/>
 
