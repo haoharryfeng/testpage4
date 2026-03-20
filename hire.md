@@ -22,7 +22,7 @@ Stipend commensurate with experience based on NIH standard guideline.
 If needed, we will work with University’s Immigration Office to obtain the appropriate visa for employment. 
 
 #### Application Information
-Candidates should send CV, cover letter and contact information of 2~3 references to Dr. Hao Feng (hao.feng@uth.tmc.edu).
+Details can be found [**here**](https://careers.uth.tmc.edu/us/en/job/2500027R/Postdoctoral-Research-Fellow-School-of-Public-Health). Candidates should apply through the link above, and send CV, cover letter and contact information of 2~3 references to Dr. Hao Feng (hao.feng@uth.tmc.edu).
 
 
 ---
