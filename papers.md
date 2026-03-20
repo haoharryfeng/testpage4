@@ -53,6 +53,10 @@ Hao Wu, Tianlei Xu, **Hao Feng**, Li Chen, Ben Li, Bing Yao, Zhaohui Steve Qin, 
 
 ---
 ### Team Science Publications
+Ming Wang, Hongke Wu, Aaron Bonner-Jackson, Yiming Chen, Wen Tang, **Hao Feng**, Lijun Zhang, Chixiang Chen, James B Leverenz, Jagan A Pillai. Early Behavioral and Cognitive Changes in Patients With Pathologically Confirmed Alzheimer Disease, Lewy Body Dementia, and Mixed Dementia. (2026) [**Neurology Open Access**](https://www.neurology.org/doi/full/10.1212/WN9.0000000000000055).
+
+Aditi Singh, Ximena Lu Ruden, Wen Tang, Awoniyi Olumide Awonuga, Douglas Mark Ruden, Steven James Korzeniewski, Elizabeth Ella Puscheck, **Hao Feng**, Daniel Allen Rappolee. Novel kinetic and developmental transcriptomic pan-stress responses by embryonic stem cells. (2025) [**Scientific Reports**](https://www.nature.com/articles/s41598-025-06628-z).
+
 Yiqian Zhang, Jonas Schluter, Lijun Zhang, Xuan Cao, Robert R. Jenq, **Hao Feng**, Jonathan Haines, Liangliang Zhang. Review and revamp of compositional data transformation: A new framework combining proportion conversion and contrast transformation. (2024) [**Computational and Structural Biotechnology Journal**](https://www.sciencedirect.com/science/article/pii/S200103702400374X).
 
 Ximena Ruden, Aditi Singh, Teya Marben, Wen Tang, Awoniyi Awpnuga, Douglas Ruden, Elizabeth Puscheck, **Hao Feng**, Steven J Korzeniewski, Daniel Rappolee. A single cell transcriptomic fingerprint of stressed premature, imbalanced differentiation of embryonic stem cells. (2024) [**Birth Defects Research**](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdr2.2409).
