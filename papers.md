@@ -6,6 +6,8 @@ title: Publications
 
 <!--  ---  -->
 ### Biostatistics Methodology Publications
+Daoyu Duan, Wenjing Ma, Wen Tang, Hao Wu, Liangliang Zhang&#42;, **Hao Feng&#42;**. *mist*: a hierarchical Bayesian framework for detecting differential DNA methylation dynamics in single-cell data. (2026). [**Nature Communications**](https://www.nature.com/articles/s41467-026-70523-y).
+
 Daxuan Deng, Lijun Zhang, **Hao Feng**, Vern M. Chinchilli, Chixiang Chen, Ming Wang. Improving Estimation Efficiency for Survival Data Analysis by Integrating a Coarsened Time-to-Event Outcome from an External Study. (2025). [**Biometrics**](https://academic.oup.com/biometrics/article-abstract/81/1/ujae168/7965377).
 
 Shilin Yu<sup>&dagger;</sup>, Guanqun Meng<sup>&dagger;</sup>, Wen Tang, Wenjing Ma, Rui Wang, Xiongwei Zhu, Xiaobo Sun, **Hao Feng&#42;**. cypress: an R/Bioconductor package for cell-type-specific differential expression analysis power assessment. (2024). [**Bioinformatics**](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae511/7735301).
