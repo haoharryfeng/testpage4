@@ -4,7 +4,31 @@ title: Openings
 ---
 <!-- #### We are hiring a master-level biostatistician. To find out more details and apply: [Click Here](https://careers.insidehighered.com/apply/2078339) -->
 
-I am looking for undergraduate/master/PhD students to work with us on exciting projects. Please email me with a brief self-introduction if interested. 
+We are looking for a Full-Time Postdoctoral Research Fellow to join UTHealth School of Public Health in Houston, TX. In this role you will focus on developing and applying statistical and computational methods to analyze both single-cell and bulk multi-omics data. The primary objective is to extract biologically meaningful insights at cell-type resolution and to advance our understanding of complex genomic mechanisms. This position would support the Department of Biostatistics & Data Science, as well as the Center for Spatial-Temporal Modeling for Applications in Population Sciences.
+
+The anticipated duration of the position is 2 years (extendable) with a negotiable start date. 
+
+#### Qualifications:
+1.	Candidates should have a recent doctoral degree in biostatistics, statistics, bioinformatics, biomedical informatics or related field. ABD doctoral students are encouraged to apply. 
+2.	Proficiency in statistical computing in R.
+3.	Experience in using High-Performance Computing. 
+4.	Knowledge in genetics/genomics is preferred, but not required. 
+
+
+#### Salary Range
+Stipend commensurate with experience based on NIH standard guideline.  
+
+#### Visa 
+If needed, we will work with University’s Immigration Office to obtain the appropriate visa for employment. 
+
+#### Application Information
+Candidates should send CV, cover letter and contact information of 2~3 references to Dr. Hao Feng (hao.feng@uth.tmc.edu).
+
+
+---
+we are also looking for highly motivated PhD students to work with us on exciting projects in statistical bioinformatics. Please email me with a brief self-introduction if interested. 
+
+
 
 <!-- #### Description
 One to two postdoctoral scholar position(s) in statistical bioinformatics are available immediately at [the Feng Lab](https://hfenglab.org/) at [Case Western Reserve University](https://case.edu/). The research goal of our lab is to utilize statistical approaches to understand high-throughput computational biology data. Using data-driven approach and statistical methods, we translate the -omics signal from benchwork to knowledge in precision medicine. We aim to combine cutting-edge biotechnologies with various types of data to make biomedical discoveries. The successful candidate will be actively engaged in statistical methodology development and/or applied collaboration research in bioinformatics. The specific research focus can be tailored to the applicant. 
