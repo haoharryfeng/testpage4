@@ -2,7 +2,13 @@
 layout: page
 title: Lab News
 ---
+### 2026
+- (03/16/2026) Our paper *mist: a hierarchical Bayesian framework for detecting differential DNA methylation dynamics in single-cell data* has been accepted for publication on [**Nature Communications**](https://www.nature.com/articles/s41467-026-70523-y). Congratulations to Dr. Daoyu Duan, the first author; and great joint work with Dr. Liangliang Zhang at Case Western Reserve University! 
+- (02/24/2026) Dr. Hao Feng was invited to give a presentation at the [Advances in Genome Biology and Technology (AGBT) 2026 General Meeting](https://www.agbt.org/home/home/general-meeting/), on computational methods for single-cell DNA methylation data. 
+
 ### 2025
+- (12/17/2025) Dr. Hao Feng was invited to give a presentation at the [13th ICSA International Conference](https://www3.stat.sinica.edu.tw/joint2025/), on computational methods for single-cell DNA methylation data. 
+- (10/17/2025) Yixiang Hong, PhD student in Biostatistics and Data Science, has joined our lab. Welcome Yixiang!
 - (07/01/2025) **Exciting News! We have moved!** Our lab is now at the University of Texas Health Science Center at Houston (UTHealth), School of Public Health, [Department of Biostatistics and Data Science](https://sph.uth.edu/dept/bads/). 
 
 ### 2024

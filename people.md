@@ -90,13 +90,36 @@ title: People
 
 
 ---
+-->
+
 
 ---
 ### PhD Student
 
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+
+            <img src="./assets/pics/YH.jpg"
+                  title="Yixiang Hong" alt="Yixiang Hong"/>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Dounia Ouzidane</b><br/>
+            PhD student in Biostatistics and Data Science<br/><br/>
+         <a href="www.linkedin.com/in/yixiang-hong-0431782b9">LinkedIn</a><br/>
+    
+   
+       
+        </div>
+    </div>
+</div>
+
 
 ---
--->
+
 
 
 <!--
