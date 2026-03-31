@@ -8,6 +8,7 @@ title: Lab News
 
 ### 2025
 - (12/17/2025) Dr. Hao Feng was invited to give a presentation at the [13th ICSA International Conference](https://www3.stat.sinica.edu.tw/joint2025/), on computational methods for single-cell DNA methylation data. 
+- (12/09/2025) We are excited to receive the **Dementia Prevention and Research Institute of Texas (DPRIT) Seed Award** from UTHealth Offices of the President. This seed award will support Dr. Feng’s research to generate preliminary data to prepare for DPRIT funding in the future.
 - (10/17/2025) Yixiang Hong, PhD student in Biostatistics and Data Science, has joined our lab. Welcome Yixiang!
 - (07/01/2025) **Exciting News! We have moved!** Our lab is now at the University of Texas Health Science Center at Houston (UTHealth), School of Public Health, [Department of Biostatistics and Data Science](https://sph.uth.edu/dept/bads/). 
 
