@@ -51,7 +51,7 @@ title: People
             Biostatistician I<br/>
             M.S. in Biostatistics, Georgetown University<br/><br/>
 
-    <a href="https://scholar.google.com/citations?user=FHi6G20AAAAJ&hl=en">Google Scholar</a><br/>    
+    <a href="https://scholar.google.com/citations?hl=en&user=cV6TS6oAAAAJ">Google Scholar</a><br/>    
        
         </div>
     </div>
