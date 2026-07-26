@@ -108,7 +108,7 @@ title: People
         <div class="span5">
             <b>Yixiang Hong</b><br/>
             PhD student in Biostatistics and Data Science<br/><br/>
-         <a href="www.linkedin.com/in/yixiang-hong-0431782b9">LinkedIn</a><br/>
+         <a href="https://www.linkedin.com/in/yixiang-hong-0431782b9">LinkedIn</a><br/>
     
    
        
