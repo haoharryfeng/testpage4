@@ -12,9 +12,9 @@ description: Hao Feng's website in Statistical Bioinformatics
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/Feng.jpg">
-            <img src="./assets/pics/Feng.jpg"
-                  title="Harry Feng" alt="Harry Feng"/></a>
+        <a href="./assets/pics/HaoFeng.png">
+            <img src="./assets/pics/HaoFeng.png"
+                  title="Hao Feng" alt="Hao Feng"/></a>
         	</div>
 
     
