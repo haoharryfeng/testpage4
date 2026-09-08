@@ -49,7 +49,7 @@ or [GitHub](https://github.com/haoharryfeng).
   <a style="color: black;" class="btn" href="http://bioconductor.org/packages/stats/bioc/mist/">Usage Stats</a> 
   <img src="https://bioconductor.org/shields/years-in-bioc/mist.svg"><br/>
   **mist** (**m**ethylation **i**nference for **s**ingle-cell along **t**rajectory) is the first method to identify genomic
-features with significant methylation changes along pseudotime, and performs Differential Methylation (DM) analysis along pseudotime across phenotypical groups. This tool has a hierarchical Bayesian framework for single-cell DNA methylation analysis, with the ability to model stage-specific biological variations. 
+features with significant methylation changes along pseudotime, and performs Differential Methylation (DM) analysis along pseudotime across phenotypical groups. This tool has a hierarchical Bayesian framework for single-cell DNA methylation analysis, with the ability to model stage-specific biological variations. Associated publication on [**Nature Communications**](https://www.nature.com/articles/s41467-026-70523-y). 
 
 - <a  style="color: white;" class="btn btn-primary" href="https://github.com/wxt175/tapas">tapas</a><br/> 
   *tapas* is a method to evaluate and quantify the confidence of cell type annotation by large language models (LLMs). *tapas* integrates two components: the linguistic implications of the output text; and a data-driven method to quantify the dissimilarity between cell types. *tapas* is available on [GitHub](https://github.com/wxt175/tapas).
