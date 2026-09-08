@@ -9,8 +9,8 @@ title: People
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/Feng.jpg">
-            <img src="./assets/pics/Feng.jpg"
+        <a href="./assets/pics/HaoFeng.png">
+            <img src="./assets/pics/HaoFeng.png"
                   title="Hao Feng" alt="Hao Feng"/></a>
         	</div>
 
