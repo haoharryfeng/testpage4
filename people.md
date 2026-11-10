@@ -31,6 +31,33 @@ title: People
 
 
 
+### Postdoctoral Fellow
+
+
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+            <img src="./assets/pics/SCui.png"
+                  title="Saishi Cui" alt="Saishi Cui"/>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Saishi Cui</b><br/>
+            Ph.D. in Biostatistics, Drexel University<br/><br/>
+ 
+        <a href="https://www.linkedin.com/in/saishi-cui-715204157/">LinkedIn</a><br/>
+        </div>
+       
+    </div>
+</div>
+
+
+---
+
+
 ### Biostatistician
 
 <div class="container">
