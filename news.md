@@ -3,6 +3,7 @@ layout: page
 title: Lab News
 ---
 ### 2026
+- (11/01/2026) Dr. Saishi Cui has joined our lab as a Postdoctoral Research Fellow. Welcome Saishi!
 - (03/16/2026) Our paper *mist: a hierarchical Bayesian framework for detecting differential DNA methylation dynamics in single-cell data* has been accepted for publication on [**Nature Communications**](https://www.nature.com/articles/s41467-026-70523-y). Congratulations to Dr. Daoyu Duan, the first author; and great joint work with Dr. Liangliang Zhang at Case Western Reserve University! 
 - (02/24/2026) Dr. Hao Feng was invited to give a presentation at the [Advances in Genome Biology and Technology (AGBT) 2026 General Meeting](https://www.agbt.org/home/home/general-meeting/), on computational methods for single-cell DNA methylation data. 
 
